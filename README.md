@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌿 Herbes & Bienfaits
 
-## Getting Started
+Fiches pratiques sur les herbes aromatiques : usages traditionnels, préparations,
+précautions et conseils de culture. Site éducatif 100 % gratuit, installable
+comme application (PWA) et consultable hors ligne.
 
-First, run the development server:
+**En ligne :** https://hamiche0808.github.io/herbes-bienfaits/
+
+> ⚠️ **Information, pas conseil médical.** Les contenus présentent des usages
+> traditionnels à titre informatif et ne remplacent pas l'avis d'un médecin ou
+> d'un pharmacien.
+
+## Fonctionnalités
+
+- 🔎 Recherche plein texte (nom, besoin, préparation, principe actif)
+- 🏷️ Filtres par besoin de santé, mode d'utilisation, saison
+- 🌱 Fiches plantes : précautions d'abord, bienfaits (avec niveau de preuve),
+  principes actifs, préparations, saisonnalité sur 12 mois
+- 📓 Page conseils : culture, conservation, au quotidien
+- 📱 PWA : manifest + service worker (cache hors ligne)
+- ♿ Accessibilité : contrastes AA, focus visible, zones tactiles 44 px
+
+## Stack
+
+Next.js 16 (App Router, `output: 'export'`) · TypeScript · Tailwind CSS v4 ·
+PWA manuelle · Données de départ dans [`lib/seed.ts`](lib/seed.ts)
+(supabase optionnel : voir [`lib/herbs.ts`](lib/herbs.ts)).
+
+## Démarrage
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev      # http://localhost:3000
+npm run build    # génère le dossier out/
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Déploiement
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+GitHub Pages via GitHub Actions (`.github/workflows/deploy.yml`) :
+chaque push sur `main` build le site et publie `out/`.
+Le `basePath` (`/herbes-bienfaits`) est défini dans `next.config.ts` et
+[`lib/site.ts`](lib/site.ts).
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Icônes PWA
 
-## Learn More
+Régénérables avec :
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+powershell -ExecutionPolicy Bypass -File scripts/generate-icons.ps1
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Auteur
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Site conçu et réalisé par **BEN MESLI Hamiche** ✦ — hamiche08.08@gmail.com
