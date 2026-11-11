@@ -6,7 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "icons": "powershell -ExecutionPolicy Bypass -File scripts/generate-icons.ps1"
+  },
+  "engines": {
+    "node": ">=20"
   },
   "dependencies": {
     "next": "16.4.6",

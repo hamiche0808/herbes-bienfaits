@@ -95,4 +95,37 @@ New-Item -ItemType Directory -Force -Path $outDir | Out-Null
 [IconGen]::Create((Join-Path $outDir "icon-512.png"),          512, $false, $true)
 [IconGen]::Create((Join-Path $outDir "icon-maskable-512.png"), 512, $true,  $false)
 [IconGen]::Create((Join-Path $outDir "apple-touch-icon.png"),  180, $false, $false)
-Write-Output "Icônes générées dans public\icons\"
+
+# Favicon : .ico multi-tailles (PNG encodes dans le conteneur ICO, standard Vista+)
+$pngDir = Join-Path $env:TEMP "herbes-favicon"
+New-Item -ItemType Directory -Force -Path $pngDir | Out-Null
+$sizes = @(16, 32, 48)
+$pngs = @()
+foreach ($s in $sizes) {
+    $f = Join-Path $pngDir ("favicon-" + $s + ".png")
+    [IconGen]::Create($f, $s, $false, $true)
+    $pngs += , @{ Size = $s; Bytes = [System.IO.File]::ReadAllBytes($f) }
+}
+$icoPath = Join-Path $PSScriptRoot "..\app\favicon.ico"
+$ms = New-Object System.IO.MemoryStream
+$bw = New-Object System.IO.BinaryWriter($ms)
+$bw.Write([uint16]0); $bw.Write([uint16]1); $bw.Write([uint16]$pngs.Count)  # ICONDIR
+$offset = 6 + 16 * $pngs.Count
+foreach ($p in $pngs) {
+    $bw.Write([byte]$p.Size)      # largeur
+    $bw.Write([byte]$p.Size)      # hauteur
+    $bw.Write([byte]0)            # palette
+    $bw.Write([byte]0)            # reserve
+    $bw.Write([uint16]1)          # plans
+    $bw.Write([uint16]32)         # bpp
+    $bw.Write([uint32]$p.Bytes.Length)
+    $bw.Write([uint32]$offset)
+    $offset += $p.Bytes.Length
+}
+foreach ($p in $pngs) { $bw.Write($p.Bytes) }
+$bw.Flush()
+[System.IO.File]::WriteAllBytes($icoPath, $ms.ToArray())
+$bw.Close()
+Write-Output "OK favicon.ico (multi-tailles 16/32/48)"
+
+Write-Output "Icones generees"

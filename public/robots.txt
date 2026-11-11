@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamiche0808.github.io/herbes-bienfaits/sitemap.xml

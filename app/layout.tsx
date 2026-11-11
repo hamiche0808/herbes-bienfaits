@@ -17,7 +17,33 @@ export const metadata: Metadata = {
     icon: `${BASE_PATH}/icons/icon-192.png`,
     apple: `${BASE_PATH}/icons/apple-touch-icon.png`,
   },
+  openGraph: {
+    title: 'Herbes & Bienfaits',
+    description: 'Fiches pratiques sur les herbes aromatiques : usages traditionnels, préparations, précautions et conseils.',
+    url: 'https://hamiche0808.github.io/herbes-bienfaits/',
+    siteName: 'Herbes & Bienfaits',
+    locale: 'fr_FR',
+    type: 'website',
+  },
 };
+
+// Site 100 % autonome : aucune ressource externe, tout est self-hosted.
+// GitHub Pages ne permet pas d'en-têtes HTTP → CSP appliquée via <meta http-equiv>
+// (React 19 remonte automatiquement cette balise dans le <head>).
+const CSP = [
+  "default-src 'self'",
+  "script-src 'self' 'unsafe-inline'", // inline requis par le bootstrap Next.js
+  "style-src 'self' 'unsafe-inline'",
+  "img-src 'self' data:",
+  "font-src 'self'",
+  "connect-src 'self'",
+  "manifest-src 'self'",
+  "worker-src 'self'",
+  "frame-src 'none'",
+  "object-src 'none'",
+  "base-uri 'self'",
+  "form-action 'self'",
+].join('; ');
 
 export const viewport: Viewport = {
   themeColor: '#2F5D3A',
@@ -29,6 +55,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="fr" className={`${inter.variable} ${fraunces.variable}`}>
       <body className="min-h-screen flex flex-col">
+        <meta httpEquiv="Content-Security-Policy" content={CSP} />
+        <meta name="referrer" content="strict-origin-when-cross-origin" />
         <header className="bg-leaf-700 text-white">
           <nav className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3" aria-label="Navigation principale">
             <Link href="/" className="font-serif text-xl font-semibold">🌿 Herbes &amp; Bienfaits</Link>
