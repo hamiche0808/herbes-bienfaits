@@ -60,7 +60,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         <meta httpEquiv="Content-Security-Policy" content={CSP} />
         <meta name="referrer" content="strict-origin-when-cross-origin" />
         <a href="#contenu" className="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-card focus:p-3">Aller au contenu</a>
-        <header className="bg-leaf-deep text-white">
+        <header className="hero-herbes text-white">
           <nav aria-label="Navigation principale" className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-x-6 gap-y-1 px-4 py-3">
             <Link href="/" className="font-serif text-xl font-semibold">Herbes &amp; Bienfaits</Link>
             <ul className="flex flex-wrap gap-x-5 text-sm font-medium">
@@ -71,7 +71,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
           </nav>
         </header>
         <main id="contenu" className="flex-1">{children}</main>
-        <footer className="bg-leaf-deep px-4 py-8 text-sm text-white/85">
+        <footer className="hero-herbes px-4 py-8 text-sm text-white/85">
           <div className="mx-auto max-w-6xl space-y-3 leading-relaxed">
             <p>
               <strong>Information, pas conseil médical.</strong> Ce site présente des usages traditionnels des plantes à titre

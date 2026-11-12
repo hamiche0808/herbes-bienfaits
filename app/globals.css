@@ -59,6 +59,37 @@
 }
 
 html { scroll-behavior: smooth; color-scheme: light dark; }
-body { background: var(--paper); color: var(--ink); font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+
+/* Fond « feuillage diffus » : dégradés végétaux superposés, palette herbier inchangée. */
+body {
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  background-color: var(--paper);
+  background-image:
+    radial-gradient(1100px 750px at 15% -10%, #ffffff 0%, transparent 55%),
+    radial-gradient(900px 650px at 108% 8%, var(--leaf-soft) 0%, transparent 52%),
+    radial-gradient(1000px 850px at 50% 118%, #d5e2cb 0%, transparent 55%),
+    linear-gradient(165deg, #eef1e8 0%, #e6ecdc 45%, #ebefe2 78%, #e7ecdb 100%);
+}
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: var(--paper);
+    background-image:
+      radial-gradient(1100px 720px at 82% -10%, #1a3a29 0%, transparent 55%),
+      radial-gradient(850px 620px at -8% 32%, #14301f 0%, transparent 50%),
+      radial-gradient(1000px 800px at 50% 115%, #0d2418 0%, transparent 60%),
+      linear-gradient(165deg, #0e1812 0%, #0c1610 50%, #112018 100%);
+  }
+}
 :focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+
+/* Bandeau d'en-tête riche : vert forêt dégradé, halo végétal et touche lavande (clair et sombre). */
+.hero-herbes {
+  background:
+    radial-gradient(900px 480px at 85% -20%, rgba(158, 215, 176, 0.16) 0%, transparent 55%),
+    radial-gradient(650px 420px at 6% 115%, rgba(188, 174, 240, 0.13) 0%, transparent 55%),
+    radial-gradient(1200px 300px at 50% 120%, rgba(30, 77, 58, 0.55) 0%, transparent 70%),
+    linear-gradient(160deg, #0a1510 0%, #12301f 55%, #0e2418 100%);
+}
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; } }

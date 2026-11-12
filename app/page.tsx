@@ -6,7 +6,7 @@ export default async function Home() {
   const herbs = await getAllHerbs();
   return (
     <>
-      <section className="bg-leaf-deep text-white">
+      <section className="hero-herbes text-white">
         <div className="mx-auto max-w-6xl px-4 pb-20 pt-10 sm:pt-16">
           <h1 className="max-w-3xl font-serif text-4xl font-semibold leading-[1.1] sm:text-6xl">
             Quelle herbe pour quel besoin&nbsp;?
