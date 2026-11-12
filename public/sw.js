@@ -1,6 +1,6 @@
 // Service worker : lecture hors ligne. Changez CACHE (v2, v3…) à chaque grosse mise à jour.
 // Chemins relatifs au scope /herbes-bienfaits/ (GitHub Pages projet).
-const CACHE = "herbes-v1";
+const CACHE = "herbes-v2";
 const CORE = ["./", "./conseils/", "./favoris/", "./a-propos/", "./manifest.json"];
 
 self.addEventListener("install", (e) => {
