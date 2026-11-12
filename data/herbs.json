@@ -2398,5 +2398,1055 @@
         "text": "Grossesse, allaitement, enfants : évitez les usages internes réguliers."
       }
     ]
+  },
+  {
+    "slug": "cannelle",
+    "commonName": "Cannelle",
+    "scientificName": "Cinnamomum verum",
+    "family": "Lauracées",
+    "summary": "Écorce intérieure du cannelier de Ceylan, l'une des plus anciennes épices du monde.",
+    "parts": [
+      "Écorce (bâtons)",
+      "Poudre"
+    ],
+    "activePrinciples": [
+      "Cinnamaldéhyde",
+      "Eugénol",
+      "Tanins"
+    ],
+    "months": [
+      6,
+      7,
+      8
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement employée pour réchauffer les digestions lentes et attenuer les ballonnements."
+      },
+      {
+        "symptom": "tonus-memoire",
+        "evidence": "etudes",
+        "text": "Des études explorent l'effet de son arôme sur l'attention ; les usages traditionnels la lient à la stimulation générale."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Bâton de cannelle en infusion",
+        "steps": "Un bâton pour 200 ml d'eau frémissante, 10 minutes. Délicieux avec du miel ou mélangé au thé.",
+        "note": "Le bâton se réutilise 2 à 3 fois."
+      },
+      {
+        "method": "cuisine",
+        "title": "En cuisine",
+        "steps": "Bâton dans les compotes, les currys et les vin chauds ; poudre sur les desserts et le porridge."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Préférez la cannelle de Ceylan (Cinnamomum verum) : la cassie (Cinnamomum cassia) du commerce contient beaucoup plus de coumarine, néfaste pour le foie en excès."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse : évitez les usages médicinaux réguliers ; l'usage culinaire reste possible."
+      }
+    ]
+  },
+  {
+    "slug": "curcuma",
+    "commonName": "Curcuma",
+    "scientificName": "Curcuma longa",
+    "family": "Zingibéracées",
+    "summary": "Rhizome d'or des cuisines d'Asie, au pigment jaune vif et au parfum terreux.",
+    "parts": [
+      "Rhizome (frais ou poudre)"
+    ],
+    "activePrinciples": [
+      "Curcuminoïdes",
+      "Huile essentielle"
+    ],
+    "months": [
+      9,
+      10,
+      11
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "monographie",
+        "text": "Utilisé traditionnellement et selon monographie pour soutenir les digestions difficiles et l'appétit."
+      },
+      {
+        "symptom": "tonus-memoire",
+        "evidence": "etudes",
+        "text": "La curcumine fait l'objet de nombreuses études sur le bien-être général ; les conclusions restent prudentes."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Lait d'or et curry",
+        "steps": "Pincée de poudre dans du lait (végétal ou non) chauffé avec du poivre et un filet d'huile ; dans tous les currys et riz pilafs.",
+        "note": "Le poivre noir (pipérine) multiplie l'absorption de la curcumine."
+      },
+      {
+        "method": "infusion",
+        "title": "Tisane de rhizome",
+        "steps": "Quelques tranches de rhizome frais ou 1/2 cuillère à café de poudre pour 200 ml d'eau frémissante, 10 minutes, filtrer."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "danger",
+        "text": "Calculs biliaires ou obstruction des voies biliaires : demandez l'avis de votre médecin avant tout usage."
+      },
+      {
+        "kind": "interaction",
+        "severity": "attention",
+        "text": "Anticoagulants : demandez un avis médical avant un usage régulier."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse : évitez les usages médicinaux concentrés ; l'usage culinaire reste possible."
+      }
+    ]
+  },
+  {
+    "slug": "safran",
+    "commonName": "Safran",
+    "scientificName": "Crocus sativus",
+    "family": "Iridacées",
+    "summary": "Les stigmates récoltés à la main d'un crocus d'automne : l'épice la plus précieuse du monde.",
+    "parts": [
+      "Stigmates"
+    ],
+    "activePrinciples": [
+      "Crocétine",
+      "Safranal",
+      "Picrocrocine"
+    ],
+    "months": [
+      10,
+      11
+    ],
+    "benefits": [
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "etudes",
+        "text": "Des études cliniques explorent son effet sur l'humeur et la détente ; demandez conseil à un professionnel avant tout usage de complément."
+      },
+      {
+        "symptom": "tonus-memoire",
+        "evidence": "etudes",
+        "text": "Des travaux exploratoires s'intéressent à la mémoire ; les conclusions ne sont pas encore définitives."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Fils en infusion",
+        "steps": "3 à 5 fils pour 150 ml d'eau chaude, 15 minutes. Couleur jaune d'or caractéristique."
+      },
+      {
+        "method": "cuisine",
+        "title": "En cuisine",
+        "steps": "Faissez infuser les fils 20 minutes dans un peu d'eau tiède avant de les incorporer au riz, aux poissons ou aux desserts."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Toute autre partie du crocus (feuilles, bulbe) est potentiellement toxique : seuls les stigmates s'utilisent. Attention aussi aux « faux safrans » vendus (safran d'arnica, fleurs teintées) qui sont toxiques."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse : éviter les doses médicinales ; l'usage culinaire reste possible."
+      }
+    ]
+  },
+  {
+    "slug": "cardamome",
+    "commonName": "Cardamome",
+    "scientificName": "Elettaria cardamomum",
+    "family": "Zingibéracées",
+    "summary": "Capsules vertes parfumées, reine des épices indiennes, fraîche et camphrée à la fois.",
+    "parts": [
+      "Graines (dans leurs capsules)"
+    ],
+    "activePrinciples": [
+      "1,8-cinéole",
+      "Alpha-terpinylacétate"
+    ],
+    "months": [
+      9,
+      10,
+      11
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement mâchée après le repas pour rafraîchir l'haleine et faciliter la digestion."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Tisane de cardamome",
+        "steps": "2 à 3 capsules légèrement écrasées pour 150 ml d'eau chaude, 10 minutes."
+      },
+      {
+        "method": "cuisine",
+        "title": "En cuisine",
+        "steps": "Graines moulues dans les currys, les desserts, le café arabe et le chai."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Aucune précaution particulière connue pour l'usage culinaire et l'infusion occasionnelle."
+      }
+    ]
+  },
+  {
+    "slug": "clou-de-girofle",
+    "commonName": "Clou de girofle",
+    "scientificName": "Syzygium aromaticum",
+    "family": "Myrtacées",
+    "summary": "Boutons floraux séchés au parfum puissant, utilisés depuis deux mille ans pour la bouche et les dents.",
+    "parts": [
+      "Boutons floraux séchés"
+    ],
+    "activePrinciples": [
+      "Eugénol",
+      "Acétate d'eugényle",
+      "Tanins"
+    ],
+    "months": [
+      9,
+      10,
+      11
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement utilisé pour les digestions lentes et les ballonnements."
+      },
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "traditionnel",
+        "text": "Utilisé traditionnellement en remède local ponctuel contre le mal de dent (croqué ou en gargarisme)."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Gargarisme ou tisane",
+        "steps": "2 à 3 clous pour 150 ml d'eau frémissante, 10 minutes. En gargarisme tiède pour la bouche et la gorge."
+      },
+      {
+        "method": "cuisine",
+        "title": "En cuisine",
+        "steps": "Piqué dans un oignon, dans les marinades, les vin chauds, les pains d'épices et les compotes."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "L'huile essentielle de girofle est très concentrée en eugénol : caustique, elle ne doit jamais être utilisée pure ni par des non-professionnels, et jamais chez l'enfant."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Le remède dentaire au clou reste ponctuel : il ne remplace pas une consultation chez le dentiste."
+      }
+    ]
+  },
+  {
+    "slug": "muscade",
+    "commonName": "Muscade",
+    "scientificName": "Myristica fragrans",
+    "family": "Myristicacées",
+    "summary": "Noyau séché au parfum chaud et boisé, indispensable de la béchamel et du gratin.",
+    "parts": [
+      "Noyau (noix)"
+    ],
+    "activePrinciples": [
+      "Myristicine",
+      "Elemicine",
+      "Safrole (traces)"
+    ],
+    "months": [
+      6,
+      7,
+      8
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement employée en petite quantité pour les digestions pénibles et les ballonnements."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Râpée au dernier moment",
+        "steps": "Râpez la noix fraîche sur les béchamels, purées, gratins et desserts ; le parfum est bien plus riche que la poudre."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Toxique à forte dose (myristicine) : nausées, vertiges, troubles cardiaques et psychoactifs. Restez en usage culinaire, quelques râpures par plat, jamais en usage médical."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse : éviter les usages médicinaux ; l'usage culinaire reste possible."
+      }
+    ]
+  },
+  {
+    "slug": "poivre-noir",
+    "commonName": "Poivre noir",
+    "scientificName": "Piper nigrum",
+    "family": "Pipéracées",
+    "summary": "Baies du poivrier grimpant, l'épice reine, à la morsure piquante et fruitée.",
+    "parts": [
+      "Baies (noir, blanc, vert)"
+    ],
+    "activePrinciples": [
+      "Pipérine",
+      "Huile essentielle"
+    ],
+    "months": [
+      2,
+      3,
+      4
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement utilisé pour stimuler l'appétit et la digestion."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Moulu au dernier moment",
+        "steps": "Le poivre perd son parfum en poudre : moulez-le juste avant de servir."
+      },
+      {
+        "method": "infusion",
+        "title": "Thé chai au poivre",
+        "steps": "1 à 2 grains écrasés avec le gingembre, la cardamome et le thé noir."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "effet-indesirable",
+        "severity": "attention",
+        "text": "À forte dose, il peut irriter les muqueuses (estomac, gorge). L'usage culinaire habituel est sans souci."
+      }
+    ]
+  },
+  {
+    "slug": "nigelle",
+    "commonName": "Nigelle",
+    "scientificName": "Nigella sativa",
+    "family": "Renonculacées",
+    "summary": "Petites graines noir bleuté, appelées « cumin noir », au goût poivré-fruité unique.",
+    "parts": [
+      "Graines",
+      "Huile de graines"
+    ],
+    "activePrinciples": [
+      "Thymoquinone",
+      "Huile grasse"
+    ],
+    "months": [
+      7,
+      8
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement employée pour soutenir la digestion, notamment sur les pains et fromages."
+      },
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "etudes",
+        "text": "Des études explorent l'huile de nigelle sur les inconforts respiratoires saisonniers ; les résultats restent préliminaires."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Graines sur le pain",
+        "steps": "Graines telles quelles sur les pains, focaccias et fromages ; légèrement torréfiées pour libérer l'arôme."
+      },
+      {
+        "method": "maceration",
+        "title": "Huile de nigelle",
+        "steps": "Huile de graines pressée, en usage alimentaire (1 cuillère à café par jour, à froid)."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse : évitez les usages médicinaux ; l'usage culinaire reste possible."
+      },
+      {
+        "kind": "effet-indesirable",
+        "severity": "attention",
+        "text": "Allergie possible (Renonculacées) ; commencez par de petites quantités."
+      }
+    ]
+  },
+  {
+    "slug": "badiane",
+    "commonName": "Badiane",
+    "scientificName": "Illicium verum",
+    "family": "Schisandracées",
+    "summary": "Étoiles ligneuses de l'anis chinois, au parfum puissant et sucré, emblème du vin chaud et du pho.",
+    "parts": [
+      "Fruits (étoiles)"
+    ],
+    "activePrinciples": [
+      "Anéthol",
+      "Huile essentielle"
+    ],
+    "months": [
+      10,
+      11
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement employée pour les digestions lourdes et les ballonnements, comme l'anis vert."
+      },
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "traditionnel",
+        "text": "Utilisée traditionnellement en tisane douce lors des refroidissements."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Tisane d'étoile",
+        "steps": "1 étoile écrasée pour 200 ml d'eau frémissante, 10 minutes. Délicieuse avec du miel et une rondelle de citron."
+      },
+      {
+        "method": "cuisine",
+        "title": "En cuisine",
+        "steps": "Vin chaud, pho, compotes de fruits, marinades asiatiques ; retirez l'étoile avant de servir."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Ne pas confondre avec la badiane du Japon (Illicium anisatum), toxique (anisatine) : achetez la badiane uniquement auprès de sources fiables (épicerie fine, pharmacie), jamais en cueillette."
+      }
+    ]
+  },
+  {
+    "slug": "angelique",
+    "commonName": "Angélique",
+    "scientificName": "Angelica archangelica",
+    "family": "Apiacées",
+    "summary": "Grande ombellifère des montagnes, tout se mange : tiges confites, feuilles en tisane, racine en décoction.",
+    "parts": [
+      "Feuilles",
+      "Tiges",
+      "Racine",
+      "Graines"
+    ],
+    "activePrinciples": [
+      "Huile essentielle",
+      "Furocoumarines",
+      "Tanins"
+    ],
+    "months": [
+      8,
+      9,
+      10
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "monographie",
+        "text": "Selon monographie, traditionnellement utilisée pour les inconforts digestifs légers (spasmes, ballonnements)."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Tisane de feuilles",
+        "steps": "1 cuillère à café de feuilles séchées pour 150 ml d'eau chaude, 10 minutes, filtrer."
+      },
+      {
+        "method": "cuisine",
+        "title": "Tiges confites",
+        "steps": "Tiges ébouillantées puis confites au sucre, spécialité du marais poitevin ; en décoction, la racine se cuit 5 minutes."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Confusion mortelle possible avec la ciguë maculée et d'autres Apiacées toxiques : cueillette réservée aux botanistes confirmés, sinon achetez-la."
+      },
+      {
+        "kind": "effet-indesirable",
+        "severity": "attention",
+        "text": "Les furocoumarines peuvent provoquer une photosensibilisation : évitez l'exposition solaire importante après un usage régulier."
+      }
+    ]
+  },
+  {
+    "slug": "ortie",
+    "commonName": "Ortie",
+    "scientificName": "Urtica dioica",
+    "family": "Urticacées",
+    "summary": "La « mauvaise herbe » la plus utile du jardin : feuilles en soupe et tisane, graines et racine prisées des herboristes.",
+    "parts": [
+      "Feuilles (cuites ou séchées)",
+      "Graines",
+      "Racine"
+    ],
+    "activePrinciples": [
+      "Minéraux (fer, silice)",
+      "Flavonoïdes",
+      "Phytostérols (racine)"
+    ],
+    "months": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "confort-urinaire",
+        "evidence": "monographie",
+        "text": "Selon monographie, traditionnellement utilisée pour augmenter l'élimination rénale d'eau."
+      },
+      {
+        "symptom": "tonus-memoire",
+        "evidence": "traditionnel",
+        "text": "Soupe et tisane traditionnelles de « rentrée des vitamines », reminéralisantes et toniques."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Soupe d'orties",
+        "steps": "Jeunes pousses cuites 10 minutes à l'eau bouillante (les aiguilles disparaissent à la cuisson), avec pommes de terre et oignon, mixées."
+      },
+      {
+        "method": "infusion",
+        "title": "Tisane de feuilles séchées",
+        "steps": "1 cuillère à soupe de feuilles séchées pour 250 ml d'eau frémissante, 10 minutes."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Récolte : gants obligatoires, et cueillez loin des passages (chiens, bords de route, champs traités)."
+      },
+      {
+        "kind": "interaction",
+        "severity": "attention",
+        "text": "Diurétiques et traitements de la tension : demandez un avis médical avant un usage régulier en tisane."
+      }
+    ]
+  },
+  {
+    "slug": "pissenlit",
+    "commonName": "Pissenlit",
+    "scientificName": "Taraxacum officinale",
+    "family": "Astéracées",
+    "summary": "Feuilles amères de printemps et racines d'automne, la « dent de lion » se mange de la salade à la tisane.",
+    "parts": [
+      "Feuilles",
+      "Racine",
+      "Boutons floraux"
+    ],
+    "activePrinciples": [
+      "Sesquiterpènes amers",
+      "Inuline",
+      "Taraxastérol"
+    ],
+    "months": [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "benefits": [
+      {
+        "symptom": "confort-urinaire",
+        "evidence": "monographie",
+        "text": "Selon monographie, traditionnellement utilisé pour augmenter l'élimination rénale d'eau."
+      },
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Les feuilles amères sont traditionnellement associées à la stimulation de l'appétit et de la bile."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Salade de feuilles jeunes",
+        "steps": "Feuilles jeunes (avant floraison) avec des lardons et un œuf poché, vinaigrette à la moutarde."
+      },
+      {
+        "method": "decoction",
+        "title": "Décoction de racine",
+        "steps": "1 cuillère à soupe de racine séchée coupée pour 250 ml d'eau, 10 minutes à frémissement, filtrer."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "danger",
+        "text": "Obstruction des voies biliaires ou calculs biliaires : demandez un avis médical avant tout usage."
+      },
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie aux Astéracées possible."
+      },
+      {
+        "kind": "interaction",
+        "severity": "attention",
+        "text": "Diurétiques : demandez un avis médical avant un usage régulier."
+      }
+    ]
+  },
+  {
+    "slug": "plantain",
+    "commonName": "Plantain",
+    "scientificName": "Plantago lanceolata",
+    "family": "Plantaginacées",
+    "summary": "Feuilles nervurées des prairies, « herbe aux coupures » des grands-mères, douce et mucilagineuse.",
+    "parts": [
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Mucilages",
+      "Iridoïdes (aucubine)",
+      "Flavonoïdes"
+    ],
+    "months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "monographie",
+        "text": "Selon monographie, traditionnellement utilisé pour la toux irritative et l'inconfort de la gorge."
+      },
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Les mucilages sont traditionnellement associés à l'apaisement des muqueuses digestives."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Tisane de feuilles",
+        "steps": "1 à 2 cuillères à café de feuilles séchées pour 150 ml d'eau chaude, 10 minutes, filtrer."
+      },
+      {
+        "method": "cuisine",
+        "title": "Feuilles jeunes en salade",
+        "steps": "Très jeunes feuilles ciselées dans les salades ; les plus âgées se cuisinent comme des épinards."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Aucune précaution particulière connue pour l'usage traditionnel occasionnel. Cueillez loin des chemins fréquentés."
+      }
+    ]
+  },
+  {
+    "slug": "guimauve",
+    "commonName": "Guimauve",
+    "scientificName": "Althaea officinalis",
+    "family": "Malvacées",
+    "summary": "La plante la plus douce de l'herboristerie : racine, feuilles et fleurs gorgées de mucilages protecteurs.",
+    "parts": [
+      "Racine",
+      "Feuilles",
+      "Fleurs"
+    ],
+    "activePrinciples": [
+      "Mucilages (arabinogalactanes)",
+      "Flavonoïdes"
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "benefits": [
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "monographie",
+        "text": "Selon monographie, traditionnellement utilisée pour adoucir la gorge irritée et la bouche sèche."
+      },
+      {
+        "symptom": "digestion",
+        "evidence": "monographie",
+        "text": "Selon monographie, traditionnellement utilisée pour l'inconfort gastrique léger (excès d'acidité)."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "maceration",
+        "title": "Macération à froid",
+        "steps": "1 cuillère à soupe de racine coupée dans 200 ml d'eau froide, 2 heures (les mucilages passent mieux à froid), filtrer tiédir légèrement.",
+        "note": "À froid, la tisane est visqueuse : c'est normal, ce sont les mucilages."
+      },
+      {
+        "method": "infusion",
+        "title": "Infusion de feuilles",
+        "steps": "1 cuillère à café de feuilles séchées pour 150 ml d'eau chaude, 10 minutes."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "interaction",
+        "severity": "attention",
+        "text": "Les mucilages peuvent ralentir l'absorption d'autres médicaments : espacez la prise de 2 heures."
+      }
+    ]
+  },
+  {
+    "slug": "coquelicot",
+    "commonName": "Coquelicot",
+    "scientificName": "Papaver rhoeas",
+    "family": "Papavéracées",
+    "summary": "Le rouge éclatant des moissons : seuls ses pétales se récoltent, pour une tisane douce et colorée.",
+    "parts": [
+      "Pétales"
+    ],
+    "activePrinciples": [
+      "Anthocyanes",
+      "Mucilages",
+      "Alcaloïdes (traces, pétales)"
+    ],
+    "months": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "benefits": [
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "traditionnel",
+        "text": "Tisane traditionnelle des soirs agités, souvent associée à la camomille et au tilleul."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Tisane de pétales",
+        "steps": "1 cuillère à café de pétales séchés pour 150 ml d'eau chaude, 10 minutes, filtrer. La couleur devient rosée."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Récoltez uniquement les pétales, jamais les capsules ou les tiges, et ne confondez pas avec les autres pavots (pavot somnifère notamment) dont les capsules contiennent des alcaloïdes puissants."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Cueillette uniquement hors des champs traités et hors des zones de culture (herbicides)."
+      }
+    ]
+  },
+  {
+    "slug": "rose",
+    "commonName": "Rose",
+    "scientificName": "Rosa gallica",
+    "family": "Rosacées",
+    "summary": "Pétales parfumés des rosiers anciens et de la rose de Damas, en sirop, en eau et en tisane.",
+    "parts": [
+      "Pétales"
+    ],
+    "activePrinciples": [
+      "Huile essentielle",
+      "Tanins",
+      "Anthocyanes"
+    ],
+    "months": [
+      5,
+      6,
+      7
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Les pétales astringents sont traditionnellement utilisés pour les digestions sensibles (infusion légère)."
+      },
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "traditionnel",
+        "text": "L'eau de rose et la tisane de pétales, traditionnellement associées à la détente."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Pétales en infusion",
+        "steps": "1 cuillère à café de pétales séchés (non traités) pour 150 ml d'eau chaude, 5 à 10 minutes."
+      },
+      {
+        "method": "maceration",
+        "title": "Sirop de rose",
+        "steps": "Pétales macérés dans un sirop de sucre tiède 24 heures, filtré ; à diluer dans l'eau fraîche."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Utilisez uniquement des roses non traitées (rosier ancien, jardin sans pesticides, source bio)."
+      }
+    ]
+  },
+  {
+    "slug": "violette",
+    "commonName": "Violette",
+    "scientificName": "Viola odorata",
+    "family": "Violacées",
+    "summary": "Fleurs parfumées des sous-bois de mars, en sirop violet et en tisane douce.",
+    "parts": [
+      "Fleurs",
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Mucilages",
+      "Saponines",
+      "Composés aromatiques"
+    ],
+    "months": [
+      3,
+      4,
+      5
+    ],
+    "benefits": [
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement utilisée en tisane douce pour adoucir la gorge et la toux sèche."
+      },
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "traditionnel",
+        "text": "Le sirop de violette, traditionnellement associé aux soirées calmes des enfants (dilué, sucré)."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Tisane de fleurs et feuilles",
+        "steps": "1 cuillère à café de fleurs et feuilles séchées pour 150 ml d'eau chaude, 10 minutes, filtrer."
+      },
+      {
+        "method": "cuisine",
+        "title": "Sirop et fleurs confites",
+        "steps": "Sirop de fleurs pour la limonade ; fleurs cristallisées au sucre pour décorer les desserts."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "À forte dose, les racines et les graines sont émétiques : utilisez uniquement fleurs et feuilles, en quantité modérée."
+      }
+    ]
+  },
+  {
+    "slug": "passiflore",
+    "commonName": "Passiflore",
+    "scientificName": "Passiflora incarnata",
+    "family": "Passifloracées",
+    "summary": "Liane grimpante aux fleurs spectaculaires, la tisane du soir par excellence de l'herboristerie moderne.",
+    "parts": [
+      "Parties aériennes (sommités)"
+    ],
+    "activePrinciples": [
+      "Flavonoïdes (vitexine, orientine)",
+      "Alcaloïdes (traces)"
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "monographie",
+        "text": "Selon monographie, traditionnellement utilisée pour favoriser la détente et l'endormissement."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Tisane du soir",
+        "steps": "1 cuillère à café de parties aériennes séchées pour 150 ml d'eau frémissante, 10 minutes, filtrer."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "effet-indesirable",
+        "severity": "attention",
+        "text": "Peut provoquer une somnolence : prudence au volant après une tisane du soir."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse et allaitement : demandez l'avis de votre médecin ou sage-femme avant tout usage."
+      }
+    ]
+  },
+  {
+    "slug": "millepertuis",
+    "commonName": "Millepertuis",
+    "scientificName": "Hypericum perforatum",
+    "family": "Hypericacées",
+    "summary": "Sommités fleuries jaunes percées de points lumineux, traditionnellement liées au moral — mais la plante aux interactions les plus redoutées.",
+    "parts": [
+      "Sommités fleuries"
+    ],
+    "activePrinciples": [
+      "Hypéricine",
+      "Hyperforine",
+      "Flavonoïdes"
+    ],
+    "months": [
+      6,
+      7,
+      8
+    ],
+    "benefits": [
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "monographie",
+        "text": "Selon monographie, traditionnellement utilisée pour soutenir l'humeur et le bien-être émotionnel."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "maceration",
+        "title": "Huile de millepertuis",
+        "steps": "Fleurs fraîches macérées dans de l'huile d'olive 3 semaines au soleil (l'huile devient rouge) ; usage externe, en application locale.",
+        "note": "L'usage interne concentré (extraits) se fait sur avis médical uniquement."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "interaction",
+        "severity": "danger",
+        "text": "Interactions médicamenteuses majeures (pilule contraceptive, anticoagulants, antidépresseurs, immunosuppresseurs, etc.) : ne consommez JAMAIS le millepertuis en usage interne sans avis médical, et signalez-le à votre médecin ou pharmacien."
+      },
+      {
+        "kind": "effet-indesirable",
+        "severity": "attention",
+        "text": "Photosensibilisation : la peau peut réagir au soleil après un usage régulier ; évitez l'exposition intense."
+      }
+    ]
+  },
+  {
+    "slug": "reine-des-pres",
+    "commonName": "Reine-des-prés",
+    "scientificName": "Filipendula ulmaria",
+    "family": "Rosacées",
+    "summary": "Catacles crémeux et miellés des fossés d'été, contenant naturellement des dérivés salicylés (dont vient l'aspirine).",
+    "parts": [
+      "Sommités fleuries",
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Dérivés salicylés",
+      "Flavonoïdes",
+      "Tanins"
+    ],
+    "months": [
+      6,
+      7,
+      8
+    ],
+    "benefits": [
+      {
+        "symptom": "confort-urinaire",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement employée en tisane douce lors des cures de confort urinaire et d'élimination rénale."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Tisane de fleurs",
+        "steps": "1 cuillère à café de sommités fleuries séchées pour 150 ml d'eau chaude, 10 minutes, filtrer."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "danger",
+        "text": "Allergie à l'aspirine (intolérance aux salicylés), asthme aspirinique : à éviter impérativement."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Traitement anticoagulant : demandez un avis médical avant un usage régulier."
+      }
+    ]
   }
 ]

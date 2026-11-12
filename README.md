@@ -1,6 +1,6 @@
 # 🌿 Herbes & Bienfaits
 
-Site + PWA sur les herbes aromatiques (**40 fiches**), 100 % gratuit : Next.js (export statique),
+Site + PWA sur les herbes aromatiques (**60 fiches**), 100 % gratuit : Next.js (export statique),
 Tailwind CSS v4, Supabase (optionnel), hébergé sur GitHub Pages. Mode sombre automatique,
 favoris hors ligne, installable comme une application.
 
