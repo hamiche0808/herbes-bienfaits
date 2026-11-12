@@ -82,6 +82,10 @@ export default async function RootLayout({ children }: { children: React.ReactNo
             <p className="!text-white/70">
               Site conçu et réalisé par <strong className="!text-white">BEN MESLI Hamiche</strong> ✦ — <a className="underline" href="mailto:hamiche08.08@gmail.com">hamiche08.08@gmail.com</a>
             </p>
+            <p className="!text-white/70">
+              Notre autre site :{" "}
+              <a className="underline" href="https://hamiche0808.github.io/nutrivita/" rel="noopener noreferrer">NutriVita — Mangez sainement, vivez naturellement</a>
+            </p>
           </div>
         </footer>
         <InstallPrompt />
