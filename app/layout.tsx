@@ -79,6 +79,9 @@ export default async function RootLayout({ children }: { children: React.ReactNo
               de traitement en cours ou de symptômes persistants.
             </p>
             <p><Link href="/a-propos/" className="underline">Sources et méthode</Link> · <Link href="/mentions-legales/" className="underline">Mentions légales</Link></p>
+            <p className="!text-white/70">
+              Site conçu et réalisé par <strong className="!text-white">BEN MESLI Hamiche</strong> ✦ — <a className="underline" href="mailto:hamiche08.08@gmail.com">hamiche08.08@gmail.com</a>
+            </p>
           </div>
         </footer>
         <InstallPrompt />
