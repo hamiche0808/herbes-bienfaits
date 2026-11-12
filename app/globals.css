@@ -1,28 +1,64 @@
 @import "tailwindcss";
+@import "@fontsource-variable/fraunces";
+@import "@fontsource-variable/fraunces/wght-italic.css";
+@import "@fontsource-variable/figtree";
 
-@theme {
-  --color-cream: #F7F5EE;
-  --color-leaf-50: #EEF4EA;
-  --color-leaf-100: #E3EEDF;
-  --color-leaf-300: #A9BFA0;
-  --color-leaf-500: #4C8A5B;
-  --color-leaf-700: #2F5D3A;
-  --color-leaf-900: #1B3523;
-  --color-clay: #B5653A;
-  --color-ink: #1F2A22;
-  --color-mute: #5C6B60;
-  --color-danger: #B3261E;
-  --color-warn: #8A5A00;
-  --font-sans: var(--font-inter), system-ui, sans-serif;
-  --font-serif: var(--font-fraunces), Georgia, serif;
+/* Palette « herbier » : papier vert-gris, encre forêt, lavande en accent */
+:root {
+  --paper: #eef1e8;
+  --card: #fafbf6;
+  --ink: #15231b;
+  --mute: #52645a;
+  --line: #c9d4c2;
+  --leaf: #1f4d3a;
+  --leaf-soft: #dce7d5;
+  --leaf-deep: #12301f;
+  --on-leaf: #ffffff;
+  --accent: #5b4b8a;
+  --danger: #a3261d;
+  --danger-soft: #fbe9e6;
+  --warn: #7a5200;
+  --warn-soft: #fdf1d6;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #0e1812;
+    --card: #15231b;
+    --ink: #e7efe6;
+    --mute: #9db1a3;
+    --line: #2a4231;
+    --leaf: #9ed7b0;
+    --leaf-soft: #1b3326;
+    --leaf-deep: #0a1510;
+    --on-leaf: #0e1812;
+    --accent: #bcaef0;
+    --danger: #ff9d92;
+    --danger-soft: #3a1b18;
+    --warn: #f1c768;
+    --warn-soft: #382a0c;
+  }
 }
 
-html { scroll-behavior: smooth; }
-body {
-  background: var(--color-cream);
-  color: var(--color-ink);
-  font-family: var(--font-sans);
-  -webkit-font-smoothing: antialiased;
+@theme inline {
+  --color-paper: var(--paper);
+  --color-card: var(--card);
+  --color-ink: var(--ink);
+  --color-mute: var(--mute);
+  --color-line: var(--line);
+  --color-leaf: var(--leaf);
+  --color-leaf-soft: var(--leaf-soft);
+  --color-leaf-deep: var(--leaf-deep);
+  --color-on-leaf: var(--on-leaf);
+  --color-accent: var(--accent);
+  --color-danger: var(--danger);
+  --color-danger-soft: var(--danger-soft);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --font-sans: "Figtree Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Fraunces Variable", Georgia, "Times New Roman", serif;
 }
-:focus-visible { outline: 3px solid var(--color-clay); outline-offset: 2px; }
-@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+html { scroll-behavior: smooth; color-scheme: light dark; }
+body { background: var(--paper); color: var(--ink); font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; } }

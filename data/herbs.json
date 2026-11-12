@@ -1,0 +1,2402 @@
+[
+  {
+    "slug": "thym",
+    "commonName": "Thym",
+    "scientificName": "Thymus vulgaris",
+    "family": "Lamiacées",
+    "summary": "Petit arbrisseau méditerranéen très aromatique, incontournable en cuisine et en tisane d'hiver.",
+    "parts": [
+      "Feuilles",
+      "Sommités fleuries"
+    ],
+    "activePrinciples": [
+      "Thymol",
+      "Carvacrol",
+      "Flavonoïdes",
+      "Acide rosmarinique"
+    ],
+    "months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "monographie",
+        "text": "Utilisé traditionnellement pour apaiser la toux et les irritations de la gorge lors d'un rhume."
+      },
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement employé pour faciliter la digestion et atténuer les ballonnements légers."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de thym",
+        "steps": "1 cuillère à café de feuilles séchées (ou quelques brins frais) pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer.",
+        "note": "Quelques tasses par jour, sur une courte durée. Consultez si la toux dure plus d'une semaine."
+      },
+      {
+        "method": "cuisine",
+        "title": "En cuisine",
+        "steps": "Ajoutez les brins en début de cuisson (mijotés, rôtis, marinades) et retirez-les avant de servir."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Lamiacées (menthe, thym, romarin, sauge, origan…)."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse et allaitement : évitez les usages médicinaux répétés sans avis médical ; l'usage culinaire reste possible."
+      },
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Huile essentielle de thym : ne pas utiliser sans l'avis d'un professionnel de santé ; déconseillée chez l'enfant."
+      }
+    ]
+  },
+  {
+    "slug": "serpolet",
+    "commonName": "Serpolet",
+    "scientificName": "Thymus serpyllum",
+    "family": "Lamiacées",
+    "summary": "Thym sauvage rampant des pelouses sèches, au parfum plus doux que le thym commun.",
+    "parts": [
+      "Sommités fleuries"
+    ],
+    "activePrinciples": [
+      "Thymol",
+      "Carvacrol (variable)",
+      "Flavonoïdes",
+      "Tanins"
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "monographie",
+        "text": "Utilisé traditionnellement en cas de toux liée à un rhume."
+      },
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Employé traditionnellement pour les inconforts digestifs légers."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de serpolet",
+        "steps": "1 à 2 cuillères à café de sommités séchées pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer.",
+        "note": "Usage de courte durée ; avis médical si les symptômes persistent."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Lamiacées (menthe, thym, romarin, sauge, origan…)."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse et allaitement : évitez les usages médicinaux répétés sans avis médical ; l'usage culinaire reste possible."
+      },
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Ne le cueillez pas en pleine nature sans identification certaine ni autorisation : l'espèce peut être protégée localement."
+      }
+    ]
+  },
+  {
+    "slug": "menthe-poivree",
+    "commonName": "Menthe poivrée",
+    "scientificName": "Mentha × piperita",
+    "family": "Lamiacées",
+    "summary": "Hybride fraîche et mentholée, référence des tisanes de digestion.",
+    "parts": [
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Menthol",
+      "Menthone",
+      "Flavonoïdes",
+      "Acide rosmarinique"
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "monographie",
+        "text": "Soulage traditionnellement les troubles digestifs légers : ballonnements, sensation de lourdeur."
+      },
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "traditionnel",
+        "text": "La vapeur d'une infusion chaude procure une sensation de nez dégagé (adulte uniquement)."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de menthe",
+        "steps": "1 à 2 cuillères à café de feuilles pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer.",
+        "note": "À prendre de préférence après le repas."
+      },
+      {
+        "method": "cuisine",
+        "title": "Fraîche en cuisine",
+        "steps": "Ciselée dans salades, taboulés, yaourts ou boissons froides, juste avant de servir."
+      },
+      {
+        "method": "inhalation",
+        "title": "Vapeur chaude (adulte)",
+        "steps": "Laissez la vapeur d'une tasse d'infusion monter doucement, sans placer le visage trop près."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Reflux gastro-œsophagien ou hernie hiatale : la menthe peut aggraver les symptômes."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Calculs ou troubles des voies biliaires : demandez un avis médical."
+      },
+      {
+        "kind": "contre-indication",
+        "severity": "danger",
+        "text": "Ne jamais appliquer d'huile essentielle ou de menthol sur le visage d'un jeune enfant (risque de spasme respiratoire)."
+      },
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Allaitement : demandez conseil avant un usage régulier."
+      }
+    ]
+  },
+  {
+    "slug": "menthe-verte",
+    "commonName": "Menthe verte",
+    "scientificName": "Mentha spicata",
+    "family": "Lamiacées",
+    "summary": "Menthe douce et sucrée, celle du thé à la menthe et des boissons d'été.",
+    "parts": [
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Carvone",
+      "Limonène",
+      "Flavonoïdes",
+      "Acide rosmarinique"
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Employée traditionnellement pour les digestions lourdes ; plus douce que la menthe poivrée."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion douce",
+        "steps": "1 poignée de feuilles fraîches (ou 2 cuillères à café séchées) pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer."
+      },
+      {
+        "method": "cuisine",
+        "title": "Boissons et salades",
+        "steps": "Idéale en thé, limonade, taboulé, sauces au yaourt ou desserts de fruits."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Lamiacées (menthe, thym, romarin, sauge, origan…)."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Reflux gastro-œsophagien : peut aggraver les symptômes chez certaines personnes."
+      },
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Allaitement : avis recommandé avant une consommation régulière et abondante."
+      }
+    ]
+  },
+  {
+    "slug": "melisse",
+    "commonName": "Mélisse",
+    "scientificName": "Melissa officinalis",
+    "family": "Lamiacées",
+    "summary": "Plante douce au parfum citronné, associée depuis longtemps à la détente du soir.",
+    "parts": [
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Acide rosmarinique",
+      "Flavonoïdes",
+      "Huile essentielle (citronellal, citral)"
+    ],
+    "months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "monographie",
+        "text": "Utilisée traditionnellement pour atténuer les petits signes de stress et favoriser l'endormissement."
+      },
+      {
+        "symptom": "digestion",
+        "evidence": "monographie",
+        "text": "Soulage traditionnellement les petits troubles digestifs, notamment liés à la nervosité."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion du soir",
+        "steps": "1 à 2 cuillères à café de feuilles pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer.",
+        "note": "Une somnolence est possible : évitez de conduire juste après."
+      },
+      {
+        "method": "cuisine",
+        "title": "Fraîche en cuisine",
+        "steps": "Ciselée dans les salades de fruits, sorbets, poissons ou boissons fraîches."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "interaction",
+        "severity": "attention",
+        "text": "Traitement thyroïdien ou médicaments sédatifs : demandez l'avis de votre médecin ou pharmacien."
+      },
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Grossesse et allaitement : avis médical recommandé avant un usage régulier."
+      }
+    ]
+  },
+  {
+    "slug": "romarin",
+    "commonName": "Romarin",
+    "scientificName": "Salvia rosmarinus",
+    "family": "Lamiacées",
+    "summary": "Arbuste persistant au parfum résineux, utilisé en cuisine et en tisane stimulante.",
+    "parts": [
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "1,8-cinéole",
+      "Camphre",
+      "α-pinène",
+      "Acide carnosique",
+      "Acide rosmarinique"
+    ],
+    "months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "monographie",
+        "text": "Utilisé traditionnellement pour les digestions lentes et les inconforts digestifs légers."
+      },
+      {
+        "symptom": "tonus-memoire",
+        "evidence": "traditionnel",
+        "text": "Réputé traditionnellement pour soutenir le tonus lors de fatigues passagères."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de romarin",
+        "steps": "1 cuillère à café de feuilles pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer.",
+        "note": "Plutôt le matin ou à midi : peut être stimulant le soir."
+      },
+      {
+        "method": "cuisine",
+        "title": "Viandes, légumes rôtis, pains",
+        "steps": "Aiguilles entières ou hachées, seules ou avec de l'ail et de l'huile d'olive."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "danger",
+        "text": "Épilepsie : évitez les usages concentrés (huile essentielle, extraits)."
+      },
+      {
+        "kind": "interaction",
+        "severity": "attention",
+        "text": "Traitement anticoagulant : demandez l'avis de votre médecin ou pharmacien avant un usage médicinal régulier."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse : évitez les doses médicinales ; l'usage culinaire reste possible."
+      }
+    ]
+  },
+  {
+    "slug": "basilic",
+    "commonName": "Basilic",
+    "scientificName": "Ocimum basilicum",
+    "family": "Lamiacées",
+    "summary": "Herbe d'été parfumée, reine de la cuisine méditerranéenne.",
+    "parts": [
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Linalol",
+      "Eugénol",
+      "Estragole (variable)",
+      "Acide rosmarinique",
+      "Flavonoïdes"
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Employé traditionnellement pour les ballonnements et les spasmes digestifs légers."
+      },
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "traditionnel",
+        "text": "Réputé traditionnellement pour sa légère action apaisante."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de basilic",
+        "steps": "5 à 6 feuilles fraîches pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer."
+      },
+      {
+        "method": "cuisine",
+        "title": "Cru, en fin de préparation",
+        "steps": "Déchirez les feuilles au dernier moment (pesto, salades, tomates) : la chaleur prolongée détruit l'arôme."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Lamiacées (menthe, thym, romarin, sauge, origan…)."
+      },
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Huile essentielle de basilic : ne pas utiliser sans l'avis d'un professionnel de santé ; déconseillée chez l'enfant."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse et allaitement : évitez les usages médicinaux répétés sans avis médical ; l'usage culinaire reste possible."
+      }
+    ]
+  },
+  {
+    "slug": "tulsi",
+    "commonName": "Tulsi (basilic sacré)",
+    "scientificName": "Ocimum tenuiflorum",
+    "family": "Lamiacées",
+    "summary": "Basilic sacré de la tradition ayurvédique, consommé en infusion.",
+    "parts": [
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Eugénol",
+      "Acide rosmarinique",
+      "Acide ursolique",
+      "Flavonoïdes"
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "traditionnel",
+        "text": "Utilisé dans la tradition ayurvédique pour accompagner les périodes de tension."
+      },
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "traditionnel",
+        "text": "Consommé traditionnellement en infusion chaude lors des refroidissements."
+      },
+      {
+        "symptom": "tonus-memoire",
+        "evidence": "traditionnel",
+        "text": "Réputé en Ayurvéda pour soutenir le tonus."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de tulsi",
+        "steps": "1 cuillère à café de feuilles séchées pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer.",
+        "note": "Évitez la prise tardive si vous êtes sensible aux stimulants."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse et projet de grossesse : à éviter par précaution (des études sur l'animal suggèrent un effet sur la fertilité)."
+      },
+      {
+        "kind": "interaction",
+        "severity": "attention",
+        "text": "Traitement anticoagulant ou antidiabétique : avis médical préalable."
+      },
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Lamiacées (menthe, thym, romarin, sauge, origan…)."
+      }
+    ]
+  },
+  {
+    "slug": "persil",
+    "commonName": "Persil",
+    "scientificName": "Petroselinum crispum",
+    "family": "Apiacées",
+    "summary": "Herbe de tous les jours, riche en vitamines, aussi utilisée en tisane pour le confort urinaire.",
+    "parts": [
+      "Feuilles",
+      "Racine"
+    ],
+    "activePrinciples": [
+      "Apiol",
+      "Myristicine",
+      "Flavonoïdes (apigénine)",
+      "Vitamines C et K"
+    ],
+    "months": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "benefits": [
+      {
+        "symptom": "confort-urinaire",
+        "evidence": "traditionnel",
+        "text": "Employé traditionnellement pour augmenter le volume des urines et favoriser l'élimination d'eau."
+      },
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Consommé traditionnellement pour stimuler l'appétit et la digestion."
+      },
+      {
+        "symptom": "tonus-memoire",
+        "evidence": "traditionnel",
+        "text": "Apporte des vitamines et du fer utiles à l'équilibre alimentaire."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Frais, en fin de cuisson",
+        "steps": "Ciselé sur les plats, en persillade ou en jus vert, pour conserver vitamines et arômes."
+      },
+      {
+        "method": "infusion",
+        "title": "Infusion de persil",
+        "steps": "1 poignée de persil frais pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer.",
+        "note": "Usage ponctuel ; buvez suffisamment d'eau pendant la journée."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "danger",
+        "text": "Grossesse : évitez les doses médicinales, les graines et l'huile essentielle (apiol)."
+      },
+      {
+        "kind": "interaction",
+        "severity": "attention",
+        "text": "Anticoagulants (type warfarine) : sa richesse en vitamine K demande un apport régulier et un avis médical."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Insuffisance rénale ou calculs : demandez un avis médical avant un usage médicinal."
+      },
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Apiacées (céleri, carotte, persil, fenouil…) : risque de réaction croisée."
+      }
+    ]
+  },
+  {
+    "slug": "ciboulette",
+    "commonName": "Ciboulette",
+    "scientificName": "Allium schoenoprasum",
+    "family": "Amaryllidacées",
+    "summary": "Petite herbe de la famille de l'oignon, douce et vivace.",
+    "parts": [
+      "Feuilles",
+      "Fleurs"
+    ],
+    "activePrinciples": [
+      "Composés soufrés",
+      "Vitamine C",
+      "Caroténoïdes",
+      "Flavonoïdes"
+    ],
+    "months": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Employée traditionnellement pour stimuler l'appétit et agrémenter les repas."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Crue et ciselée",
+        "steps": "Ajoutez-la juste avant de servir : omelettes, fromages blancs, pommes de terre, salades."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Alliacées (ail, oignon, poireau)."
+      },
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Estomac sensible ou côlon irritable : peut provoquer des inconforts."
+      },
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Toxique pour les chiens et les chats : tenez-la hors de leur portée."
+      }
+    ]
+  },
+  {
+    "slug": "coriandre",
+    "commonName": "Coriandre",
+    "scientificName": "Coriandrum sativum",
+    "family": "Apiacées",
+    "summary": "Herbe fraîche aux feuilles parfumées et aux graines épicées.",
+    "parts": [
+      "Feuilles",
+      "Graines"
+    ],
+    "activePrinciples": [
+      "Linalol",
+      "Décénal",
+      "Flavonoïdes",
+      "Huile essentielle"
+    ],
+    "months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Les graines sont utilisées traditionnellement pour les ballonnements et la digestion lente."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de graines",
+        "steps": "1 cuillère à café de graines légèrement écrasées pour 150 ml d'eau chaude. Couvrir 10 minutes, filtrer."
+      },
+      {
+        "method": "cuisine",
+        "title": "Feuilles fraîches",
+        "steps": "Ajoutez-les crues en fin de préparation (currys, salades, guacamole, soupes)."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Apiacées (céleri, carotte, persil, fenouil…) : risque de réaction croisée."
+      },
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Certaines personnes lui trouvent un goût de savon (variation génétique) : ce n'est pas un signe d'allergie."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse et allaitement : évitez les usages médicinaux répétés sans avis médical ; l'usage culinaire reste possible."
+      }
+    ]
+  },
+  {
+    "slug": "sauge",
+    "commonName": "Sauge officinale",
+    "scientificName": "Salvia officinalis",
+    "family": "Lamiacées",
+    "summary": "Plante grise et veloutée, réputée pour la gorge et la sudation excessive.",
+    "parts": [
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Thuyone",
+      "Camphre",
+      "1,8-cinéole",
+      "Acide carnosique",
+      "Acide rosmarinique"
+    ],
+    "months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "monographie",
+        "text": "Utilisée traditionnellement en gargarisme pour les irritations de la bouche et de la gorge."
+      },
+      {
+        "symptom": "digestion",
+        "evidence": "monographie",
+        "text": "Employée traditionnellement pour les inconforts digestifs légers."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion ou gargarisme",
+        "steps": "1 à 2 cuillères à café de feuilles pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer.",
+        "note": "Quelques tasses par jour ; pour le gargarisme, laisser tiédir et ne pas avaler. Courte durée, pas de cure prolongée."
+      },
+      {
+        "method": "cuisine",
+        "title": "Beurre de sauge, viandes, pâtes",
+        "steps": "Faites revenir quelques feuilles dans du beurre ou de l'huile d'olive."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "danger",
+        "text": "Grossesse et allaitement : déconseillée aux doses médicinales (thuyone ; peut réduire la lactation)."
+      },
+      {
+        "kind": "contre-indication",
+        "severity": "danger",
+        "text": "Épilepsie : évitez les usages concentrés et l'huile essentielle."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Cancers hormono-dépendants : demandez l'avis de votre médecin."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Ne pas dépasser les durées habituelles d'usage (thuyone)."
+      }
+    ]
+  },
+  {
+    "slug": "origan",
+    "commonName": "Origan",
+    "scientificName": "Origanum vulgare",
+    "family": "Lamiacées",
+    "summary": "Herbe de la pizza et de la cuisine méditerranéenne, très riche en composés aromatiques.",
+    "parts": [
+      "Sommités fleuries"
+    ],
+    "activePrinciples": [
+      "Carvacrol",
+      "Thymol",
+      "Flavonoïdes",
+      "Acide rosmarinique"
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Employé traditionnellement pour la digestion et les ballonnements."
+      },
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "traditionnel",
+        "text": "Consommé traditionnellement en infusion lors des refroidissements."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion d'origan",
+        "steps": "1 cuillère à café de sommités séchées pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer."
+      },
+      {
+        "method": "cuisine",
+        "title": "Séché, en cuisine",
+        "steps": "Plus parfumé séché que frais : pizzas, sauces tomate, grillades."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Huile essentielle d'origan : très irritante pour la peau et les muqueuses ; à n'utiliser que sur avis d'un professionnel."
+      },
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Lamiacées (menthe, thym, romarin, sauge, origan…)."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse et allaitement : évitez les usages médicinaux répétés sans avis médical ; l'usage culinaire reste possible."
+      }
+    ]
+  },
+  {
+    "slug": "marjolaine",
+    "commonName": "Marjolaine",
+    "scientificName": "Origanum majorana",
+    "family": "Lamiacées",
+    "summary": "Cousine douce de l'origan, au parfum fleuri et légèrement camphré.",
+    "parts": [
+      "Sommités fleuries"
+    ],
+    "activePrinciples": [
+      "Terpinène-4-ol",
+      "Sabinène",
+      "Acide rosmarinique",
+      "Tanins"
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Employée traditionnellement pour les spasmes et ballonnements légers."
+      },
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "traditionnel",
+        "text": "Réputée traditionnellement pour sa légère action apaisante."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de marjolaine",
+        "steps": "1 cuillère à café de sommités pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer."
+      },
+      {
+        "method": "cuisine",
+        "title": "Charcuteries, farces, légumes",
+        "steps": "Ajoutez-la en fin de cuisson pour préserver sa finesse."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Lamiacées (menthe, thym, romarin, sauge, origan…)."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse et allaitement : évitez les usages médicinaux répétés sans avis médical ; l'usage culinaire reste possible."
+      }
+    ]
+  },
+  {
+    "slug": "lavande",
+    "commonName": "Lavande vraie",
+    "scientificName": "Lavandula angustifolia",
+    "family": "Lamiacées",
+    "summary": "Arbrisseau des garrigues aux fleurs violettes, symbole de détente.",
+    "parts": [
+      "Fleurs"
+    ],
+    "activePrinciples": [
+      "Linalol",
+      "Acétate de linalyle",
+      "Flavonoïdes",
+      "Tanins"
+    ],
+    "months": [
+      6,
+      7,
+      8
+    ],
+    "benefits": [
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "monographie",
+        "text": "Utilisée traditionnellement pour atténuer les petits signes de stress et favoriser l'endormissement."
+      },
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Employée traditionnellement pour les inconforts digestifs liés à la nervosité."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de fleurs",
+        "steps": "1 cuillère à café de fleurs séchées pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer.",
+        "note": "Utilisez de la lavande vraie (L. angustifolia) de qualité alimentaire, pas du lavandin ni des fleurs de décoration."
+      },
+      {
+        "method": "cuisine",
+        "title": "Pointe en cuisine",
+        "steps": "Quelques fleurs seulement dans un sucre, une crème, un miel ou une marinade."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Huile essentielle : ne pas avaler sans avis professionnel ; usage cutané déconseillé chez le jeune enfant sans avis."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse et allaitement : évitez les usages médicinaux répétés sans avis médical ; l'usage culinaire reste possible."
+      },
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Fleurs vendues pour la décoration ou traitées : ne pas consommer."
+      }
+    ]
+  },
+  {
+    "slug": "camomille",
+    "commonName": "Camomille matricaire",
+    "scientificName": "Matricaria chamomilla",
+    "family": "Astéracées",
+    "summary": "Petites fleurs blanches au cœur jaune, la tisane de détente la plus connue.",
+    "parts": [
+      "Capitules floraux"
+    ],
+    "activePrinciples": [
+      "Bisabolol",
+      "Chamazulène",
+      "Apigénine",
+      "Flavonoïdes"
+    ],
+    "months": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "monographie",
+        "text": "Soulage traditionnellement les spasmes et inconforts digestifs légers."
+      },
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "traditionnel",
+        "text": "Employée traditionnellement pour favoriser la détente du soir."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de camomille",
+        "steps": "1 à 2 cuillères à café de capitules pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer.",
+        "note": "Couvrir pour garder les huiles volatiles."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Astéracées (armoise, ambroisie, camomille, chrysanthème…) : risque de réaction croisée."
+      },
+      {
+        "kind": "interaction",
+        "severity": "attention",
+        "text": "Anticoagulants : des cas d'interaction ont été rapportés, demandez l'avis de votre pharmacien."
+      },
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Éviter les compresses près des yeux si vous êtes allergique : risque de réaction."
+      }
+    ]
+  },
+  {
+    "slug": "verveine-citronnelle",
+    "commonName": "Verveine citronnelle",
+    "scientificName": "Aloysia citrodora",
+    "family": "Verbénacées",
+    "summary": "Arbuste au parfum citronné intense, star des tisanes du soir (à ne pas confondre avec la verveine officinale).",
+    "parts": [
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Citral",
+      "Géraniol",
+      "Verbascoside",
+      "Flavonoïdes"
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Employée traditionnellement pour faciliter la digestion."
+      },
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "traditionnel",
+        "text": "Réputée traditionnellement pour la détente du soir."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de verveine",
+        "steps": "1 cuillère à café de feuilles pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer."
+      },
+      {
+        "method": "cuisine",
+        "title": "Desserts et boissons",
+        "steps": "Infusez les feuilles dans du lait, une crème ou un sirop."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Usage prolongé en grande quantité : peut irriter l'estomac chez les personnes sensibles."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse et allaitement : évitez les usages médicinaux répétés sans avis médical ; l'usage culinaire reste possible."
+      }
+    ]
+  },
+  {
+    "slug": "estragon",
+    "commonName": "Estragon",
+    "scientificName": "Artemisia dracunculus",
+    "family": "Astéracées",
+    "summary": "Herbe fine à la saveur anisée, essentielle de la sauce béarnaise.",
+    "parts": [
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Estragole",
+      "Méthyleugénol",
+      "Flavonoïdes",
+      "Coumarines"
+    ],
+    "months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Employé traditionnellement pour stimuler l'appétit et la digestion."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Sauces, volailles, œufs",
+        "steps": "Ajoutez-le haché en fin de cuisson pour conserver son arôme anisé."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Astéracées (armoise, ambroisie, camomille, chrysanthème…) : risque de réaction croisée."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Riche en estragole : pas d'usage médicinal prolongé ni d'huile essentielle sans avis professionnel."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse et allaitement : évitez les usages médicinaux répétés sans avis médical ; l'usage culinaire reste possible."
+      }
+    ]
+  },
+  {
+    "slug": "aneth",
+    "commonName": "Aneth",
+    "scientificName": "Anethum graveolens",
+    "family": "Apiacées",
+    "summary": "Herbe plumeuse aux notes anisées, parfaite avec le poisson.",
+    "parts": [
+      "Feuilles",
+      "Graines"
+    ],
+    "activePrinciples": [
+      "Carvone",
+      "Limonène",
+      "Phellandrène",
+      "Flavonoïdes"
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Les graines sont utilisées traditionnellement pour les ballonnements et la digestion difficile."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de graines",
+        "steps": "1 cuillère à café de graines légèrement écrasées pour 150 ml d'eau chaude. Couvrir 10 minutes, filtrer."
+      },
+      {
+        "method": "cuisine",
+        "title": "Poisson, concombres, yaourt",
+        "steps": "Ajoutez les frondes ciselées au dernier moment."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Apiacées (céleri, carotte, persil, fenouil…) : risque de réaction croisée."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse et allaitement : évitez les doses médicinales et l'huile essentielle ; l'usage culinaire reste possible."
+      }
+    ]
+  },
+  {
+    "slug": "fenouil",
+    "commonName": "Fenouil",
+    "scientificName": "Foeniculum vulgare",
+    "family": "Apiacées",
+    "summary": "Plante à feuilles en plumes dont on consomme les graines, le bulbe et les frondes.",
+    "parts": [
+      "Fruits (graines)",
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Anéthole",
+      "Fenchone",
+      "Estragole",
+      "Flavonoïdes"
+    ],
+    "months": [
+      8,
+      9,
+      10
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "monographie",
+        "text": "Utilisé traditionnellement pour les ballonnements et les spasmes digestifs légers."
+      },
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "monographie",
+        "text": "Employé traditionnellement en cas de toux liée à un rhume."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de fenouil",
+        "steps": "1 cuillère à café de graines légèrement écrasées pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer.",
+        "note": "Quelques tasses par jour sur une courte durée (pas plus de deux semaines sans avis)."
+      },
+      {
+        "method": "cuisine",
+        "title": "Graines et frondes",
+        "steps": "Graines dans pains, poissons, charcuteries ; frondes en fin de cuisson."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Apiacées (céleri, carotte, persil, fenouil…) : risque de réaction croisée."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse, allaitement, jeunes enfants : évitez les usages médicinaux prolongés (estragole)."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Cancers hormono-dépendants : demandez l'avis de votre médecin."
+      },
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Huile essentielle de fenouil : ne pas utiliser sans l'avis d'un professionnel de santé ; déconseillée chez l'enfant."
+      }
+    ]
+  },
+  {
+    "slug": "anis-vert",
+    "commonName": "Anis vert",
+    "scientificName": "Pimpinella anisum",
+    "family": "Apiacées",
+    "summary": "Petite graine sucrée et parfumée, utilisée en infusion, pâtisserie et boissons.",
+    "parts": [
+      "Fruits (graines)"
+    ],
+    "activePrinciples": [
+      "Anéthole",
+      "Estragole",
+      "Flavonoïdes",
+      "Coumarines"
+    ],
+    "months": [
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "monographie",
+        "text": "Utilisé traditionnellement pour les ballonnements et les troubles digestifs légers."
+      },
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "monographie",
+        "text": "Employé traditionnellement pour apaiser la toux."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion d'anis",
+        "steps": "1 cuillère à café de graines légèrement écrasées pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer."
+      },
+      {
+        "method": "cuisine",
+        "title": "Biscuits, pains, desserts",
+        "steps": "Ajoutez les graines entières ou moulues à la pâte."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Apiacées (céleri, carotte, persil, fenouil…) : risque de réaction croisée."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Jeunes enfants, grossesse, allaitement : évitez les usages médicinaux prolongés (estragole)."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Cancers hormono-dépendants : demandez l'avis de votre médecin."
+      }
+    ]
+  },
+  {
+    "slug": "carvi",
+    "commonName": "Carvi",
+    "scientificName": "Carum carvi",
+    "family": "Apiacées",
+    "summary": "Graine épicée et chaude des pains, fromages et choucroutes d'Europe centrale.",
+    "parts": [
+      "Fruits (graines)"
+    ],
+    "activePrinciples": [
+      "Carvone",
+      "Limonène",
+      "Flavonoïdes",
+      "Huile essentielle"
+    ],
+    "months": [
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "monographie",
+        "text": "Utilisé traditionnellement pour les ballonnements, spasmes et digestions lentes."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de carvi",
+        "steps": "1 cuillère à café de graines légèrement écrasées pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer.",
+        "note": "Après le repas, jusqu'à quelques tasses par jour."
+      },
+      {
+        "method": "cuisine",
+        "title": "Pains, fromages, choux",
+        "steps": "Idéal avec les plats lourds ou les légumes du genre chou."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Apiacées (céleri, carotte, persil, fenouil…) : risque de réaction croisée."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse et allaitement : évitez les usages médicinaux répétés sans avis médical ; l'usage culinaire reste possible."
+      },
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Huile essentielle : déconseillée chez le jeune enfant."
+      }
+    ]
+  },
+  {
+    "slug": "laurier-sauce",
+    "commonName": "Laurier-sauce",
+    "scientificName": "Laurus nobilis",
+    "family": "Lauracées",
+    "summary": "Arbuste méditerranéen dont les feuilles parfument les plats mijotés.",
+    "parts": [
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "1,8-cinéole",
+      "Eugénol",
+      "Linalol",
+      "Flavonoïdes"
+    ],
+    "months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Employé traditionnellement pour faciliter la digestion des plats riches."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Plats mijotés",
+        "steps": "Ajoutez 1 à 2 feuilles à la cuisson et retirez-les avant de servir."
+      },
+      {
+        "method": "decoction",
+        "title": "Décoction légère",
+        "steps": "1 feuille dans 150 ml d'eau, frémir 5 minutes, filtrer.",
+        "note": "Usage occasionnel."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Ne jamais avaler une feuille entière : bords coupants, risque de lésion digestive."
+      },
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Ne le confondez pas avec le laurier-rose, très toxique : vérifiez l'espèce avant toute cueillette."
+      },
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie aux Lauracées (cannelle, avocat…) ou à l'eugénol."
+      }
+    ]
+  },
+  {
+    "slug": "sarriette",
+    "commonName": "Sarriette",
+    "scientificName": "Satureja hortensis",
+    "family": "Lamiacées",
+    "summary": "Herbe poivrée des légumineuses, surnommée « herbe aux haricots ».",
+    "parts": [
+      "Sommités fleuries"
+    ],
+    "activePrinciples": [
+      "Carvacrol",
+      "Thymol",
+      "Acide rosmarinique",
+      "Tanins"
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Employée traditionnellement pour limiter les ballonnements après les légumineuses."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Avec haricots et lentilles",
+        "steps": "Ajoutez un brin à l'eau de cuisson des légumineuses."
+      },
+      {
+        "method": "infusion",
+        "title": "Infusion de sarriette",
+        "steps": "1 cuillère à café de sommités pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Lamiacées (menthe, thym, romarin, sauge, origan…)."
+      },
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Huile essentielle : irritante pour la peau ; à n'utiliser que sur avis professionnel."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse et allaitement : évitez les usages médicinaux répétés sans avis médical ; l'usage culinaire reste possible."
+      }
+    ]
+  },
+  {
+    "slug": "cerfeuil",
+    "commonName": "Cerfeuil",
+    "scientificName": "Anthriscus cerefolium",
+    "family": "Apiacées",
+    "summary": "Herbe fine délicate, composante des « fines herbes » classiques.",
+    "parts": [
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Estragole (traces)",
+      "Flavonoïdes",
+      "Vitamine C",
+      "Huile essentielle"
+    ],
+    "months": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Consommé traditionnellement pour stimuler l'appétit."
+      },
+      {
+        "symptom": "confort-urinaire",
+        "evidence": "traditionnel",
+        "text": "Employé traditionnellement pour favoriser l'élimination urinaire."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Cru, en fin de préparation",
+        "steps": "Ajoutez-le ciselé au dernier moment (omelettes, soupes, sauces) : la chaleur lui fait perdre son arôme."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "danger",
+        "text": "Ne le cueillez jamais en pleine nature sans identification certaine : risque de confusion avec la ciguë, mortelle."
+      },
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Apiacées (céleri, carotte, persil, fenouil…) : risque de réaction croisée."
+      }
+    ]
+  },
+  {
+    "slug": "liveche",
+    "commonName": "Livèche",
+    "scientificName": "Levisticum officinale",
+    "family": "Apiacées",
+    "summary": "Grande plante au goût de céleri très marqué, aussi appelée « céleri perpétuel ».",
+    "parts": [
+      "Feuilles",
+      "Racine"
+    ],
+    "activePrinciples": [
+      "Phtalides",
+      "Furocoumarines",
+      "Huile essentielle",
+      "Flavonoïdes"
+    ],
+    "months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Employée traditionnellement pour stimuler l'appétit et la digestion."
+      },
+      {
+        "symptom": "confort-urinaire",
+        "evidence": "traditionnel",
+        "text": "La racine est employée traditionnellement pour augmenter le volume des urines."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Bouillons et soupes",
+        "steps": "Une petite feuille suffit pour parfumer un bouillon, une soupe ou un plat mijoté."
+      },
+      {
+        "method": "infusion",
+        "title": "Infusion de livèche",
+        "steps": "1 cuillère à café de feuilles pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer.",
+        "note": "Courte durée ; buvez de l'eau au cours de la journée."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "danger",
+        "text": "Inflammation des reins ou œdèmes liés à une insuffisance cardiaque ou rénale : ne pas utiliser."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Photosensibilisation possible (furocoumarines) : évitez l'exposition au soleil après un usage médicinal."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse et allaitement : évitez les usages médicinaux répétés sans avis médical ; l'usage culinaire reste possible."
+      },
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Apiacées (céleri, carotte, persil, fenouil…) : risque de réaction croisée."
+      }
+    ]
+  },
+  {
+    "slug": "citronnelle",
+    "commonName": "Citronnelle",
+    "scientificName": "Cymbopogon citratus",
+    "family": "Poacées",
+    "summary": "Herbe tropicale aux tiges parfumées de citron, base de la cuisine thaïe.",
+    "parts": [
+      "Tiges",
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Citral",
+      "Géraniol",
+      "Myrcène",
+      "Flavonoïdes"
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Employée traditionnellement pour les digestions lentes et les ballonnements."
+      },
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "traditionnel",
+        "text": "Réputée traditionnellement pour la détente."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de citronnelle",
+        "steps": "1 tige émincée (ou 1 cuillère à café de feuilles séchées) pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer."
+      },
+      {
+        "method": "cuisine",
+        "title": "Soupes, currys, bouillons",
+        "steps": "Écrasez la tige pour libérer l'arôme, faites mijoter, puis retirez-la avant de servir."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse : évitez les usages médicinaux ; l'usage culinaire reste possible."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Huile essentielle : risque d'irritation de la peau ; ne pas utiliser pure."
+      }
+    ]
+  },
+  {
+    "slug": "hysope",
+    "commonName": "Hysope",
+    "scientificName": "Hyssopus officinalis",
+    "family": "Lamiacées",
+    "summary": "Sous-arbrisseau aux fleurs bleues, utilisé en tisane pour les voies respiratoires.",
+    "parts": [
+      "Sommités fleuries"
+    ],
+    "activePrinciples": [
+      "Pinocamphone (huile essentielle)",
+      "Flavonoïdes",
+      "Tanins",
+      "Acide rosmarinique"
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "traditionnel",
+        "text": "Utilisée traditionnellement en tisane lors des refroidissements."
+      },
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Employée traditionnellement pour les digestions lentes."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion d'hysope",
+        "steps": "1 cuillère à café de sommités pour 150 ml d'eau chaude (frémissante, pas bouillante). Couvrir 10 minutes, filtrer.",
+        "note": "Usage occasionnel et de courte durée."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "danger",
+        "text": "Épilepsie : à éviter, l'huile essentielle est neurotoxique à doses élevées."
+      },
+      {
+        "kind": "contre-indication",
+        "severity": "danger",
+        "text": "Grossesse, allaitement et enfants : déconseillée."
+      },
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie connue aux Lamiacées (menthe, thym, romarin, sauge, origan…)."
+      }
+    ]
+  },
+  {
+    "slug": "oseille",
+    "commonName": "Oseille",
+    "scientificName": "Rumex acetosa",
+    "family": "Polygonacées",
+    "summary": "Feuille acidulée à la saveur citronnée, utilisée en soupes et sauces.",
+    "parts": [
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Acide oxalique",
+      "Vitamine C",
+      "Tanins",
+      "Flavonoïdes"
+    ],
+    "months": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Consommée traditionnellement pour stimuler l'appétit grâce à son acidité."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Soupes, sauces, poissons",
+        "steps": "Cuisez-la brièvement : elle fond en purée. Associez-la à de la crème ou à des œufs."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "danger",
+        "text": "Calculs rénaux (oxalate), goutte ou insuffisance rénale : à éviter ou à limiter fortement."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Consommation en grande quantité déconseillée (acide oxalique)."
+      },
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Évitez de la consommer en même temps que des aliments riches en calcium si vous êtes sujet aux calculs."
+      }
+    ]
+  },
+  {
+    "slug": "tilleul",
+    "commonName": "Tilleul",
+    "scientificName": "Tilia cordata",
+    "family": "Malvacées",
+    "summary": "Arbre majestueux dont les fleurs miellées garnissent les tisanes du soir.",
+    "parts": [
+      "Fleurs",
+      "Bractées"
+    ],
+    "activePrinciples": [
+      "Mucilages",
+      "Flavonoïdes",
+      "Huile essentielle"
+    ],
+    "months": [
+      6,
+      7
+    ],
+    "benefits": [
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "monographie",
+        "text": "Tisane classique pour favoriser la détente en fin de journée."
+      },
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement employée pour adoucir la gorge en période de refroidissement."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Tisane de fleurs",
+        "steps": "1 à 2 cuillères à café de fleurs (avec leurs bractées) pour 150 ml d'eau frémissante. Couvrir 10 minutes, filtrer."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Aucune précaution particulière connue pour l'infusion occasionnelle de tilleul."
+      }
+    ]
+  },
+  {
+    "slug": "reglisse",
+    "commonName": "Réglisse",
+    "scientificName": "Glycyrrhiza glabra",
+    "family": "Fabacées",
+    "summary": "Racine douce et réconfortante, à consommer avec retenue : c'est l'herbe qui exige le plus de prudence.",
+    "parts": [
+      "Racine"
+    ],
+    "activePrinciples": [
+      "Glycyrrhizine",
+      "Flavonoïdes"
+    ],
+    "months": [
+      9,
+      10,
+      11
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "monographie",
+        "text": "Traditionnellement utilisée pour apaiser l'estomac et les digestions délicates."
+      },
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "monographie",
+        "text": "Employée traditionnellement en tisane pour adoucir la gorge."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "decoction",
+        "title": "Décoction de racine",
+        "steps": "1 cuillère à café de racine séchée en morceaux, 5 minutes à frémissement puis 10 minutes hors du feu. Filtrer.",
+        "note": "Pas plus de 4 semaines consécutives, et jamais en cas d'hypertension."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "danger",
+        "text": "Hypertension artérielle, maladies cardiaques, rénales ou hépatiques : à éviter (la glycyrrhizine augmente la tension)."
+      },
+      {
+        "kind": "contre-indication",
+        "severity": "danger",
+        "text": "Grossesse : à éviter sous toutes ses formes médicinales."
+      },
+      {
+        "kind": "interaction",
+        "severity": "attention",
+        "text": "Interactions possibles avec diurétiques, corticoïdes et certains traitements du cœur : demandez un avis médical."
+      }
+    ]
+  },
+  {
+    "slug": "gingembre",
+    "commonName": "Gingembre",
+    "scientificName": "Zingiber officinale",
+    "family": "Zingibéracées",
+    "summary": "Rhizome piquant et réchauffant, dont la tisane est appréciée lors des refroidissements.",
+    "parts": [
+      "Rhizome"
+    ],
+    "activePrinciples": [
+      "Gingérols",
+      "Shogaols"
+    ],
+    "months": [
+      9,
+      10,
+      11
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "monographie",
+        "text": "Contribue à soulager les nausées légères et les malaises du voyage."
+      },
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "traditionnel",
+        "text": "Tisane traditionnelle lors des refroidissements hivernaux."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Tisane de rhizome frais",
+        "steps": "Quelques tranches de rhizome frais pour 200 ml d'eau frémissante, 10 minutes. Une cuillère de miel adoucit le piquant."
+      },
+      {
+        "method": "cuisine",
+        "title": "En cuisine",
+        "steps": "Râpé dans les marinades, les sautés et les desserts."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "interaction",
+        "severity": "attention",
+        "text": "Anticoagulants : demandez l'avis de votre médecin ou pharmacien avant un usage régulier."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Calculs biliaires : avis médical avant un usage régulier."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse : pour les nausées de grossesse, demandez d'abord l'avis de votre sage-femme ou médecin."
+      }
+    ]
+  },
+  {
+    "slug": "cumin",
+    "commonName": "Cumin",
+    "scientificName": "Cuminum cyminum",
+    "family": "Apiacées",
+    "summary": "Graines chaudes et terreuses, pilier des cuisines du bassin méditerranéen et de l'Inde.",
+    "parts": [
+      "Graines"
+    ],
+    "activePrinciples": [
+      "Cuminaldéhyde",
+      "Pinène"
+    ],
+    "months": [
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement employé pour faciliter la digestion et atténuer les lourdeurs d'estomac."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Tisane de cumin",
+        "steps": "1 cuillère à café de graines écrasées pour 150 ml d'eau chaude. Couvrir 10 minutes, filtrer."
+      },
+      {
+        "method": "cuisine",
+        "title": "En cuisine",
+        "steps": "Graines torréfiées à sec puis moulues : dhal, tajines, pains et fromages frais."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie aux Apiacées possible."
+      }
+    ]
+  },
+  {
+    "slug": "thym-citron",
+    "commonName": "Thym citron",
+    "scientificName": "Thymus × citriodorus",
+    "family": "Lamiacées",
+    "summary": "Hybride au parfum zesté de citron, délicieux en tisane comme sur le poisson.",
+    "parts": [
+      "Feuilles",
+      "Sommités fleuries"
+    ],
+    "activePrinciples": [
+      "Géraniol",
+      "Citral",
+      "Thymol (traces)"
+    ],
+    "months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "traditionnel",
+        "text": "Tisane traditionnelle douce et citronnée lors des refroidissements."
+      },
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement employé pour les digestions difficiles."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Infusion de thym citron",
+        "steps": "1 cuillère à café de feuilles séchées ou quelques brins frais pour 150 ml d'eau frémissante. Couvrir 10 minutes, filtrer."
+      },
+      {
+        "method": "cuisine",
+        "title": "En cuisine",
+        "steps": "Parfait sur le poisson, les légumes rôtis et dans les marinades citronnées."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie aux Lamiacées possible."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Huile essentielle : usage réservé aux professionnels ; l'usage culinaire reste possible."
+      }
+    ]
+  },
+  {
+    "slug": "fleurs-de-sureau",
+    "commonName": "Fleurs de sureau",
+    "scientificName": "Sambucus nigra",
+    "family": "Adoxacées",
+    "summary": "Ombelles crémeuses au parfum de miel de juin, bases des beignets et sirops de grand-mère.",
+    "parts": [
+      "Fleurs"
+    ],
+    "activePrinciples": [
+      "Flavonoïdes",
+      "Acides phénoliques"
+    ],
+    "months": [
+      6,
+      7
+    ],
+    "benefits": [
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "traditionnel",
+        "text": "Tisane traditionnelle des refroidissements, souvent adoucie d'une cuillère de miel ; en gargarisme tiède pour la gorge."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Tisane de fleurs",
+        "steps": "1 cuillère à soupe de fleurs séchées (ou 2 de fraîches, bien égrenées) pour 250 ml d'eau frémissante. Couvrir 10 minutes, filtrer.",
+        "note": "Parfait avec une cuillère de miel."
+      },
+      {
+        "method": "cuisine",
+        "title": "Sirop et beignets",
+        "steps": "Sirop de fleurs, limonade maison ou beignets : bien cuire les préparations, toujours."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Baies et parties vertes crues : toxiques (nausées, vomissements). Utilisez uniquement les fleurs, et cuisez systématiquement les préparations."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Identification certaine obligatoire avant toute cueillette (confusion possible avec d'autres arbustes)."
+      }
+    ]
+  },
+  {
+    "slug": "mauve",
+    "commonName": "Mauve",
+    "scientificName": "Malva sylvestris",
+    "family": "Malvacées",
+    "summary": "Fleurs mauves et feuilles douces, très mucilagineuses : la tisane gorgée de douceur.",
+    "parts": [
+      "Fleurs",
+      "Feuilles"
+    ],
+    "activePrinciples": [
+      "Mucilages",
+      "Anthocyanes"
+    ],
+    "months": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement utilisée en tisane pour adoucir la gorge irritée."
+      },
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Les mucilages sont traditionnellement associés à l'apaisement des muqueuses digestives."
+      },
+      {
+        "symptom": "confort-urinaire",
+        "evidence": "traditionnel",
+        "text": "Employée traditionnellement en tisane douce lors des inconforts urinaires passagers."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Tisane de mauve",
+        "steps": "1 à 2 cuillères à café de fleurs et feuilles séchées pour 150 ml d'eau chaude. Couvrir 10 minutes, filtrer.",
+        "note": "L'infusion est légèrement gluante : c'est le signe des mucilages."
+      },
+      {
+        "method": "cuisine",
+        "title": "En cuisine",
+        "steps": "Jeunes feuilles dans les salades et les soupes ; fleurs comestibles en décor."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Aucune précaution particulière connue pour l'usage traditionnel occasionnel."
+      }
+    ]
+  },
+  {
+    "slug": "ail-des-ours",
+    "commonName": "Ail des ours",
+    "scientificName": "Allium ursinum",
+    "family": "Amaryllidacées",
+    "summary": "Oignon sauvage des sous-bois au parfum d'ail doux, star des cueillettes de printemps.",
+    "parts": [
+      "Feuilles",
+      "Fleurs",
+      "Bulbe"
+    ],
+    "activePrinciples": [
+      "Composés soufrés",
+      "Flavonoïdes"
+    ],
+    "months": [
+      3,
+      4,
+      5
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement utilisé comme condiment printanier pour soutenir la digestion."
+      },
+      {
+        "symptom": "voies-respiratoires",
+        "evidence": "traditionnel",
+        "text": "Employé traditionnellement en cures de feuilles fraîches lors des rhumes de printemps."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Pesto d'ail des ours",
+        "steps": "Feuilles lavées, parmesan, noix et huile d'olive : mixez, gardez au frais et consommez rapidement.",
+        "note": "Ciselé cru, il remplace partout l'ail classique, avec plus de douceur."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Confusion mortelle possible avec le muguet ou la colchique : récoltez uniquement avec une identification certaine (odeur d'ail en frottant la feuille, jamais une seule caractéristique), ou achetez de jeunes plants."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Commencez doucement : les feuilles crues en grande quantité peuvent irriter l'estomac."
+      }
+    ]
+  },
+  {
+    "slug": "bleuet",
+    "commonName": "Bleuet",
+    "scientificName": "Centaurea cyanus",
+    "family": "Astéracées",
+    "summary": "Fleurs d'un bleu intense des moissons, comestibles et décoratives.",
+    "parts": [
+      "Fleurs"
+    ],
+    "activePrinciples": [
+      "Anthocyanes",
+      "Composés phénoliques"
+    ],
+    "months": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "benefits": [
+      {
+        "symptom": "stress-sommeil",
+        "evidence": "traditionnel",
+        "text": "Employé traditionnellement en tisane légère pour la détente."
+      },
+      {
+        "symptom": "confort-urinaire",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement associé au confort urinaire dans l'herboristerie populaire."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "infusion",
+        "title": "Tisane de fleurs",
+        "steps": "1 cuillère à café de fleurs séchées pour 150 ml d'eau chaude, 5 à 10 minutes, filtrer."
+      },
+      {
+        "method": "cuisine",
+        "title": "Fleurs comestibles",
+        "steps": "Pétales sur les salades, les glaces et les pâtisseries ; en infusion mélangée au thé."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "contre-indication",
+        "severity": "attention",
+        "text": "Allergie aux Astéracées possible."
+      },
+      {
+        "kind": "precaution",
+        "severity": "info",
+        "text": "Choisissez des fleurs issues de cultures sans traitement chimique."
+      }
+    ]
+  },
+  {
+    "slug": "fenugrec",
+    "commonName": "Fenugrec",
+    "scientificName": "Trigonella foenum-graecum",
+    "family": "Fabacées",
+    "summary": "Graines épicées au parfum de caramel brûlé, pilier des currys et des mélanges indiens.",
+    "parts": [
+      "Graines",
+      "Feuilles (methi)"
+    ],
+    "activePrinciples": [
+      "Saponines",
+      "4-hydroxyisoleucine",
+      "Protéines"
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement employé pour stimuler l'appétit et soutenir la digestion."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Graines torréfiées",
+        "steps": "Torréfieez à sec puis moulez ; trempées une nuit, elles deviennent plus douces."
+      },
+      {
+        "method": "infusion",
+        "title": "Infusion de graines",
+        "steps": "1 cuillère à café de graines écrasées pour 150 ml d'eau chaude, 10 minutes, filtrer."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse : évitez les usages médicinaux ; l'usage culinaire reste possible."
+      },
+      {
+        "kind": "interaction",
+        "severity": "attention",
+        "text": "Traitement du diabète ou de la thyroïde : interactions possibles, demandez un avis médical."
+      }
+    ]
+  },
+  {
+    "slug": "bourrache",
+    "commonName": "Bourrache",
+    "scientificName": "Borago officinalis",
+    "family": "Boraginacées",
+    "summary": "Fleurs étoilées bleues comestibles et mellifères, au feuillage rugueux au goût d'huître.",
+    "parts": [
+      "Fleurs",
+      "Jeunes feuilles"
+    ],
+    "activePrinciples": [
+      "Mucilages",
+      "Acide gamma-linolénique (huile de graines)"
+    ],
+    "months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "benefits": [
+      {
+        "symptom": "confort-urinaire",
+        "evidence": "traditionnel",
+        "text": "Traditionnellement employée en tisane douce lors des cures printanières de confort urinaire."
+      },
+      {
+        "symptom": "digestion",
+        "evidence": "traditionnel",
+        "text": "Jeunes feuilles cuites, traditionnellement consommées comme légume vert."
+      }
+    ],
+    "preparations": [
+      {
+        "method": "cuisine",
+        "title": "Fleurs et jeunes feuilles",
+        "steps": "Fleurs sur les salades et les desserts ; jeunes feuilles cuites comme des épinards, en faible quantité."
+      },
+      {
+        "method": "infusion",
+        "title": "Tisane de fleurs",
+        "steps": "1 cuillère à café de fleurs séchées pour 150 ml d'eau chaude, 10 minutes, filtrer."
+      }
+    ],
+    "precautions": [
+      {
+        "kind": "precaution",
+        "severity": "danger",
+        "text": "Les parties aériennes contiennent de petites quantités d'alcaloïdes pyrrolizidiniques (hépatotoxiques) : limitez la quantité et la durée, évitez les cures prolongées et les extraits concentrés."
+      },
+      {
+        "kind": "precaution",
+        "severity": "attention",
+        "text": "Grossesse, allaitement, enfants : évitez les usages internes réguliers."
+      }
+    ]
+  }
+]

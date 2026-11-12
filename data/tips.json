@@ -1,0 +1,80 @@
+[
+ {
+  "slug": "menthe-en-pot",
+  "category": "culture",
+  "title": "Cultiver la menthe en pot",
+  "body": "La menthe est envahissante : plantez-la dans un pot ou un seau enterré. Sol frais, mi-ombre, arrosage régulier. Taillez souvent pour garder un feuillage tendre."
+ },
+ {
+  "slug": "thym-soleil",
+  "category": "culture",
+  "title": "Un thym heureux : soleil et drainage",
+  "body": "Plein soleil, sol pauvre et très drainant, peu d'eau. Taillez légèrement après la floraison pour éviter qu'il ne se dégarnisse."
+ },
+ {
+  "slug": "basilic-chaleur",
+  "category": "culture",
+  "title": "Réussir son basilic",
+  "body": "Semez après les derniers gels, au chaud et en plein soleil. Pincez les têtes pour le faire ramifier et retirez les boutons floraux pour prolonger la récolte."
+ },
+ {
+  "slug": "persil-germination",
+  "category": "culture",
+  "title": "Faire germer le persil",
+  "body": "Sa germination est lente (3 à 6 semaines). Semez en place dans un sol frais, car il supporte mal la transplantation."
+ },
+ {
+  "slug": "romarin-hiver",
+  "category": "culture",
+  "title": "Romarin : sec et ensoleillé",
+  "body": "Il craint l'excès d'eau plus que le froid. Offrez-lui un sol drainant ; en pot, évitez la soucoupe pleine en hiver."
+ },
+ {
+  "slug": "secher-herbes",
+  "category": "conservation",
+  "title": "Sécher ses herbes",
+  "body": "Récoltez le matin après la rosée, puis suspendez-les en petits bouquets, à l'ombre dans un endroit aéré. Conservez-les dans des bocaux opaques, loin de la chaleur et de l'humidité."
+ },
+ {
+  "slug": "glacons-herbes",
+  "category": "conservation",
+  "title": "Congeler en glaçons",
+  "body": "Hachez des herbes tendres (menthe, mélisse, persil, ciboulette), répartissez-les dans un bac à glaçons, couvrez d'eau ou d'huile d'olive et congelez."
+ },
+ {
+  "slug": "tiges-eau",
+  "category": "conservation",
+  "title": "Garder les herbes fraîches au frigo",
+  "body": "Les herbes tendres (persil, coriandre, menthe) tiennent plus longtemps debout dans un verre d'eau, au frais. Le basilic, lui, déteste le froid : gardez-le à température ambiante."
+ },
+ {
+  "slug": "labelliser",
+  "category": "conservation",
+  "title": "Étiqueter et dater",
+  "body": "Notez le nom et la date de séchage sur chaque bocal. Les herbes séchées gardent leurs arômes environ un an ; au-delà, renouvelez-les."
+ },
+ {
+  "slug": "infusion-couvrir",
+  "category": "quotidien",
+  "title": "Une infusion réussie",
+  "body": "Couvrez la tasse pendant l'infusion pour garder les huiles volatiles, et utilisez une eau frémissante plutôt que bouillante pour les feuilles tendres."
+ },
+ {
+  "slug": "fraiches-ou-seches",
+  "category": "quotidien",
+  "title": "Fraîches ou sèches ?",
+  "body": "Les herbes robustes (thym, romarin, laurier, origan) s'ajoutent en début de cuisson. Les herbes tendres (basilic, persil, ciboulette, cerfeuil) se glissent à la fin."
+ },
+ {
+  "slug": "pas-de-cueillette-sauvage",
+  "category": "quotidien",
+  "title": "Cueillette sauvage : prudence",
+  "body": "Certaines plantes toxiques ressemblent à des herbes comestibles (ciguë et cerfeuil, laurier-rose et laurier-sauce). N'utilisez que des plantes identifiées avec certitude."
+ },
+ {
+  "slug": "avis-pro",
+  "category": "quotidien",
+  "title": "Quand demander conseil",
+  "body": "Grossesse, allaitement, enfants, traitement en cours ou maladie chronique : parlez-en à votre médecin ou à votre pharmacien avant tout usage médicinal régulier."
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "slug": "digestion",
+  "label": "Digestion"
+ },
+ {
+  "slug": "voies-respiratoires",
+  "label": "Voies respiratoires"
+ },
+ {
+  "slug": "stress-sommeil",
+  "label": "Stress & sommeil"
+ },
+ {
+  "slug": "tonus-memoire",
+  "label": "Tonus & concentration"
+ },
+ {
+  "slug": "confort-urinaire",
+  "label": "Confort urinaire"
+ }
+]

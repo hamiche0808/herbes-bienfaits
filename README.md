@@ -1,53 +1,55 @@
 # 🌿 Herbes & Bienfaits
 
-Fiches pratiques sur les herbes aromatiques : usages traditionnels, préparations,
-précautions et conseils de culture. Site éducatif 100 % gratuit, installable
-comme application (PWA) et consultable hors ligne.
+Site + PWA sur les herbes aromatiques (**40 fiches**), 100 % gratuit : Next.js (export statique),
+Tailwind CSS v4, Supabase (optionnel), hébergé sur GitHub Pages. Mode sombre automatique,
+favoris hors ligne, installable comme une application.
 
 **En ligne :** https://hamiche0808.github.io/herbes-bienfaits/
 
-> ⚠️ **Information, pas conseil médical.** Les contenus présentent des usages
-> traditionnels à titre informatif et ne remplacent pas l'avis d'un médecin ou
-> d'un pharmacien.
-
-## Fonctionnalités
-
-- 🔎 Recherche plein texte (nom, besoin, préparation, principe actif)
-- 🏷️ Filtres par besoin de santé, mode d'utilisation, saison
-- 🌱 Fiches plantes : précautions d'abord, bienfaits (avec niveau de preuve),
-  principes actifs, préparations, saisonnalité sur 12 mois
-- 📓 Page conseils : culture, conservation, au quotidien
-- 📱 PWA : manifest + service worker (cache hors ligne)
-- ♿ Accessibilité : contrastes AA, focus visible, zones tactiles 44 px
-
-## Stack
-
-Next.js 16 (App Router, `output: 'export'`) · TypeScript · Tailwind CSS v4 ·
-PWA manuelle · Données de départ dans [`lib/seed.ts`](lib/seed.ts)
-(supabase optionnel : voir [`lib/herbs.ts`](lib/herbs.ts)).
+> ⚠️ **Information, pas conseil médical.** Les fiches présentent des usages traditionnels à
+> titre informatif et ne remplacent pas l'avis d'un médecin ou d'un pharmacien.
 
 ## Démarrage
 
 ```bash
 npm install
-npm run dev      # http://localhost:3000
-npm run build    # génère le dossier out/
+npm run dev          # http://localhost:3000
+npm run build        # génère out/ (site statique)
+npm run preview      # teste le site de production + la PWA
 ```
 
-## Déploiement
+Sans configuration, le site lit `data/herbs.json`. Pour modifier ou ajouter des plantes :
+éditez ce fichier (même structure que les fiches existantes) ou utilisez Supabase (ci-dessous).
 
-GitHub Pages via GitHub Actions (`.github/workflows/deploy.yml`) :
-chaque push sur `main` build le site et publie `out/`.
-Le `basePath` (`/herbes-bienfaits`) est défini dans `next.config.ts` et
-[`lib/site.ts`](lib/site.ts).
+## Supabase (facultatif)
 
-## Icônes PWA
+1. Créez un projet gratuit sur supabase.com.
+2. SQL Editor : exécutez `supabase/schema.sql`, puis `supabase/seed.sql`
+   (`npm run seed:sql` le régénère à partir de `data/*.json`).
+3. Copiez `.env.example` en `.env.local` et renseignez `SUPABASE_URL` et `SUPABASE_ANON_KEY` (Project Settings > API).
+4. Ajoutez les mêmes variables sur votre hébergeur, et les secrets GitHub pour `keepalive.yml`.
 
-Régénérables avec :
+Les données sont lues au moment du build : après une modification dans Supabase, redéployez
+(`git commit --allow-empty -m rebuild && git push`). Si Supabase est indisponible, le site
+retombe sur `data/herbs.json`.
 
-```bash
-powershell -ExecutionPolicy Bypass -File scripts/generate-icons.ps1
-```
+## Déploiement (GitHub Pages, gratuit)
+
+- Déploiement automatique via GitHub Actions (`.github/workflows/deploy.yml`) à chaque push sur `main`.
+- Le `basePath` (`/herbes-bienfaits`) est défini dans `next.config.ts` et `lib/site.ts`.
+
+## Installer la PWA
+
+Android (Chrome) : menu ⋮ > Installer l'application. iPhone (Safari) : Partager > Sur l'écran d'accueil.
+
+## Icônes
+
+Régénérables avec : `npm run icons` (PowerShell, System.Drawing).
+
+## Avant la mise en ligne publique
+
+- Faire valider chaque fiche (EMA/HMPC, ANSM, ESCOP) et ajouter vos sources (voir `scripts/author_data.py`).
+- Vérifier `app/mentions-legales/page.tsx`.
 
 ## Auteur
 

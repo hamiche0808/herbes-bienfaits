@@ -1,22 +1,11 @@
-import Link from 'next/link';
+import Link from "next/link";
 
 export default function NotFound() {
   return (
-    <div className="mx-auto flex max-w-3xl flex-col items-center px-4 py-20 text-center">
-      <p className="font-serif text-6xl font-semibold text-leaf-300" aria-hidden="true">404</p>
-      <h1 className="mt-4 font-serif text-3xl font-semibold text-leaf-900">
-        Cette page n'existe pas (ou plus)
-      </h1>
-      <p className="mt-4 max-w-md leading-relaxed text-mute">
-        Le lien est peut-être erroné, ou la page a été déplacée.
-        Revenez à la liste des plantes pour retrouver ce que vous cherchez.
-      </p>
-      <Link
-        href="/"
-        className="mt-8 min-h-11 rounded-full bg-leaf-700 px-6 py-3 text-sm font-medium text-white transition hover:bg-leaf-500"
-      >
-        ← Toutes les plantes
-      </Link>
+    <div className="mx-auto max-w-xl px-4 py-24 text-center">
+      <h1 className="font-serif text-5xl font-semibold">Page introuvable</h1>
+      <p className="mt-4 text-mute">Cette fiche n’existe pas ou a été déplacée.</p>
+      <Link href="/" className="mt-6 inline-flex min-h-11 items-center rounded-md bg-leaf px-5 font-medium text-on-leaf">Retour aux plantes</Link>
     </div>
   );
 }

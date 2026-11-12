@@ -3,16 +3,21 @@
   "short_name": "Herbes",
   "description": "Fiches pratiques sur les herbes aromatiques : usages, préparations et précautions.",
   "lang": "fr",
+  "id": "./",
   "start_url": "./?source=pwa",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F7F5EE",
-  "theme_color": "#2F5D3A",
+  "background_color": "#eef1e8",
+  "theme_color": "#12301f",
   "categories": ["health", "lifestyle", "food"],
   "icons": [
     { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
     { "src": "./icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Mes favoris", "url": "./favoris/", "icons": [{ "src": "./icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Conseils", "url": "./conseils/", "icons": [{ "src": "./icons/icon-192.png", "sizes": "192x192" }] }
   ]
 }

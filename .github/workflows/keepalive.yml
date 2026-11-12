@@ -1,0 +1,15 @@
+# Évite la mise en pause du projet Supabase gratuit (inactivité > 7 jours).
+# Ajoutez les secrets SUPABASE_URL et SUPABASE_ANON_KEY dans GitHub > Settings > Secrets and variables > Actions.
+# Sans secrets configurés, le workflow s'arrête silencieusement (pas d'échec).
+name: keep-supabase-alive
+on:
+  schedule: [{ cron: "0 6 * * 1,4" }]   # lundi et jeudi
+  workflow_dispatch: {}
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    if: ${{ vars.SUPABASE_URL != '' && vars.SUPABASE_ANON_KEY != '' }}
+    steps:
+      - run: >
+          curl -fsS "${{ secrets.SUPABASE_URL }}/rest/v1/herbs?select=id&limit=1"
+          -H "apikey: ${{ secrets.SUPABASE_ANON_KEY }}"

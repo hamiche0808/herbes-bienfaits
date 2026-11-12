@@ -1,5 +1,5 @@
 {
-  "name": "herbes-bienfaits",
+  "name": "herbes-aromatiques",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,18 +7,17 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "icons": "powershell -ExecutionPolicy Bypass -File scripts/generate-icons.ps1"
-  },
-  "engines": {
-    "node": ">=20"
+    "seed:sql": "node scripts/json-to-sql.mjs",
+    "preview": "npx serve out"
   },
   "dependencies": {
+    "@fontsource-variable/figtree": "^5.3.0",
+    "@fontsource-variable/fraunces": "^5.3.0",
     "next": "16.4.6",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.3.5",
     "@tailwindcss/turbopack": "4.3.3",
     "@types/node": "^20",
     "@types/react": "^19",
